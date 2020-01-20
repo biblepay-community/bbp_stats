@@ -1,8 +1,8 @@
 HTTP/1.1 200 OK
-Date: Mon, 20 Jan 2020 19:53:18 GMT
+Date: Mon, 20 Jan 2020 21:43:52 GMT
 Server: Kestrel
 Content-Length: 2932585
-Expires: Mon, 20 Jan 2020 20:23:18 GMT
+Expires: Mon, 20 Jan 2020 22:13:52 GMT
 
 <user><id>201</id><expavg_credit>4165.75</expavg_credit><cpid>6d2f56b3810e24480c9affbe67ace5b6</cpid></user>
 <user><id>501</id><expavg_credit>596.68</expavg_credit><cpid>e8b5ae46085c1eda17c7c05b41146286</cpid></user>
