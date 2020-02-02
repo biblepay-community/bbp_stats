@@ -1,9 +1,4 @@
-HTTP/1.1 200 OK
-Date: Sat, 01 Feb 2020 23:42:01 GMT
-Server: Kestrel
-Content-Length: 2951318
-Expires: Sun, 02 Feb 2020 00:12:01 GMT
-
+userid,rac,cpid,teamid
 201,4528.37,6d2f56b3810e24480c9affbe67ace5b6
 714,3190.54,e2f1e9da0871ba4645211e20eb86a798
 725,2704.97,5e21d9ff671d5d6155a1890d125e78bb
@@ -25538,4 +25533,4 @@ Expires: Sun, 02 Feb 2020 00:12:01 GMT
 1097718,4126.36,0309843dd03d914ca9e508951e3433c0
 1097734,8128.82,ce34f83d3ae78dce49e5832666adeba3
 1097797,883.92,6e90c8e0994407e7b9da883e841c45ae
-1097799,393.57,99c5fd527b335ed622d9c3ed1ca18ff4,30513                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+1097799,393.57,99c5fd527b335ed622d9c3ed1ca18ff4,30513
