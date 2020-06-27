@@ -5095,7 +5095,17 @@ Content-Length: 3698268
 226009,1380.14,5680e0272d4528891b3ea58c1307ab8a
 226015,19682.97,b9bdf5890ae28bfe4f0f9a560cc3e35f
 226117,372.49,d462a7bb2bc567732612993db1d8aefc
-226381,0.094645,159ee9f8fdf648b3cd974e517d02e87c,35006
+<user>
+ <id>226381</id>
+ <name>jdparlin</name>
+ <country>UNITED STATES</country>
+ <create_time>1148402749</create_time>
+ <total_credit>7328691.081787</total_credit>
+ <expavg_credit>0.094645</expavg_credit>
+ <expavg_time>1579674001.887701</expavg_time>
+ <cpid>159ee9f8fdf648b3cd974e517d02e87c</cpid>
+ <teamid>35006</teamid>
+</user>
 226394,963.93,bcb9ad6f74a1adae388bfef3805c6f6e
 226426,571.42,28a5f5a77d1226c01ff829e1d8a0a9c4
 226441,7856.21,25c074e52d97b3c335fc82455ed9f206
@@ -6172,7 +6182,17 @@ Content-Length: 3698268
 283537,9575.36,9dcbb981d82f7eb33788103db2f4a430
 283554,5656.9,508f13fa650261f56ebd4b5f079defc9
 283591,802.85,b9d8af90f99c97a4253c6d7cb9b9df4b
-283635,0.092092,b577ce78cd833e1c9344d21a35c24254,35006
+<user>
+ <id>283635</id>
+ <name>thecico</name>
+ <country>ITALY</country>
+ <create_time>1162670915</create_time>
+ <total_credit>207034.588844</total_credit>
+ <expavg_credit>0.092092</expavg_credit>
+ <expavg_time>1472214001.363111</expavg_time>
+ <cpid>b577ce78cd833e1c9344d21a35c24254</cpid>
+ <teamid>35006</teamid>
+</user>
 283644,3762.86,35c0e6f3a8b2d6f395eee4dbff332a90
 283678,752.66,8d8f588ca77cc99db097a1db8b8b5675
 283686,347.16,869dae2bd769e0fc4377bb7e43065bee
@@ -9526,7 +9546,17 @@ Content-Length: 3698268
 397814,482.78,06559489cd3ac48981c78dcc3fe67993
 397829,3332.31,adb2482052482dab7d3a8c3fd1de7a31
 397927,769.46,d46e12800bb25843fab0ded2cbeff6d8
-397932,0.088714,81f0dd3062412d78e0182dcecf56cef5,35006
+<user>
+ <id>397932</id>
+ <name>zupernovato</name>
+ <country>SPAIN</country>
+ <create_time>1187527552</create_time>
+ <total_credit>1436366.140147</total_credit>
+ <expavg_credit>0.088714</expavg_credit>
+ <expavg_time>1575721201.215869</expavg_time>
+ <cpid>81f0dd3062412d78e0182dcecf56cef5</cpid>
+ <teamid>35006</teamid>
+</user>
 397934,10902.48,35e9c3b3bd6ef82cfe6decc0b4f9dc96
 398025,362.19,d8d04cca2aa9951e02fe97bd07e9575c
 398031,1255.28,ebccd1828ca73d17a7ce87437f0f7e71
@@ -10894,7 +10924,17 @@ Content-Length: 3698268
 472805,1679.98,4c50142524c87a0ec89b14e8b87a6867
 472833,1614.17,d20570204ef53c3c0b4fea0b82eac528
 472838,1320.08,378e81cc50df33a89726618e389d8ccc
-472993,0.089939,f767c6fe4e31ba43f1934e49dbc91c5e,35006
+<user>
+ <id>472993</id>
+ <name>Arka_Seb</name>
+ <country>FRANCE</country>
+ <create_time>1205948179</create_time>
+ <total_credit>5381.860635</total_credit>
+ <expavg_credit>0.089939</expavg_credit>
+ <expavg_time>1557987601.302249</expavg_time>
+ <cpid>f767c6fe4e31ba43f1934e49dbc91c5e</cpid>
+ <teamid>35006</teamid>
+</user>
 473047,547.74,9778b8f84d2844f71ff14b95caec4a1b
 473127,6351.87,f23c8cd4b902cc3e5227dde3c625affa
 473131,1458.2,103bffcb45707b7f340d071c4826fa4a
@@ -14470,7 +14510,17 @@ Content-Length: 3698268
 645792,15248.88,e5707e1e2caa34c76a85da5e2512f911
 645805,348.61,2d9180bac062b03ee87ec73003246e2b
 645838,785.59,e0e0a9942c8a88a51ee4ea932b0bc735
-645845,368.506236,6890ce04cf39b80be7951511bde0d37c,35006
+<user>
+ <id>645845</id>
+ <name>Tin Tran</name>
+ <country></country>
+ <create_time>1255333141</create_time>
+ <total_credit>255692.820424</total_credit>
+ <expavg_credit>368.506236</expavg_credit>
+ <expavg_time>1593140500.356447</expavg_time>
+ <cpid>6890ce04cf39b80be7951511bde0d37c</cpid>
+ <teamid>35006</teamid>
+</user>
 645885,2273.16,89f44a5c378e6149e1396f5361832764
 645908,739.13,8ff15462994459aae18e0ce4cbe5b10c
 645958,7862.01,e3621001f4798deb16f48349a2b817e8
@@ -16817,7 +16867,17 @@ Content-Length: 3698268
 742351,909.52,49c0b93955550e8b29543db71b9ae6d7
 742375,2065.89,a8a63b43495616618f56e7027ee9f5d2
 742416,757.73,3ddc706a384a6ca00047385cbdcd19ef
-742423,13320.595674,c15b3957362c34fc16ce148691adbc5e,35006
+<user>
+ <id>742423</id>
+ <name>OOraiser</name>
+ <country>THAILAND</country>
+ <create_time>1300006523</create_time>
+ <total_credit>2831818.887373</total_credit>
+ <expavg_credit>13320.595674</expavg_credit>
+ <expavg_time>1593171000.349782</expavg_time>
+ <cpid>c15b3957362c34fc16ce148691adbc5e</cpid>
+ <teamid>35006</teamid>
+</user>
 742456,681.07,a451db1a2ffe02ab5dac53ef3c70fe91
 742470,1444.45,a966ddf15b51776abcc2b31958f9047e
 742510,1080.45,0158e5405b5afa79db32301eb40dac27
@@ -19241,7 +19301,17 @@ Content-Length: 3698268
 833056,5277.98,284d00904fa4e44d5637c6f70a672e4d
 833109,4918.71,a5789ed9de1a4ee4a2812128ff788254
 833246,1865.16,bd34e0d81833d17cdb88fa2bd8133b69
-833383,30726.511446,93ceb5244472171ac60fbba931b5425d,35006
+<user>
+ <id>833383</id>
+ <name>maxiandr</name>
+ <country>UZBEKISTAN</country>
+ <create_time>1358873506</create_time>
+ <total_credit>18110235.533880</total_credit>
+ <expavg_credit>30726.511446</expavg_credit>
+ <expavg_time>1593173514.034058</expavg_time>
+ <cpid>93ceb5244472171ac60fbba931b5425d</cpid>
+ <teamid>35006</teamid>
+</user>
 833385,1564.53,1367227b89afc1577254b173d4073de0
 833442,1857.19,be2ca41b325162ba4466e3383a004ecc
 833446,7492.53,3df39b015bd0915b39d789cf3801273c
@@ -20168,7 +20238,17 @@ Content-Length: 3698268
 869558,4061.74,a9c3cbc3464c5521dadf9322de438f6d
 869623,738.9,4e44b6c8b7f28d61527d290449eda558
 870049,1365.13,1c9aecb5c5ef865f4e42b4452d52fbd9
-870467,0.094307,d370810314d56947fd409f3bac101f68,35006
+<user>
+ <id>870467</id>
+ <name>swilson2000</name>
+ <country></country>
+ <create_time>1385748988</create_time>
+ <total_credit>3951748.405369</total_credit>
+ <expavg_credit>0.094307</expavg_credit>
+ <expavg_time>1547079601.645593</expavg_time>
+ <cpid>d370810314d56947fd409f3bac101f68</cpid>
+ <teamid>35006</teamid>
+</user>
 870468,19916.87,89ef772445c65a245072049310edac61
 870603,593.36,ab92c843cb67bfe85eefbe5cfbfb5d6c
 870632,49589.76,0699adc24a724fe47b2578a7feab04e0
@@ -20324,7 +20404,17 @@ Content-Length: 3698268
 885566,1163.28,76c91e97c5f4706be0e0fc0adce1f8c6
 885598,327.74,cc8ea15222874b23629aa72159fdb7b9
 885614,1003.16,a20b5d1b44d58141175f733df545d68b
-885729,61871.955644,7d32deaa69d7a3b5df8d830a3dca0c2d,35006
+<user>
+ <id>885729</id>
+ <name>happy1</name>
+ <country></country>
+ <create_time>1388678308</create_time>
+ <total_credit>70495414.780919</total_credit>
+ <expavg_credit>61871.955644</expavg_credit>
+ <expavg_time>1593173546.142203</expavg_time>
+ <cpid>7d32deaa69d7a3b5df8d830a3dca0c2d</cpid>
+ <teamid>35006</teamid>
+</user>
 885777,2804.96,9e854cacd6befe46cd462cf1b16c8b4f
 885780,22899.2,e45e3122aadfd473c5255ab360bd80c4
 885932,2203.06,2c6467eef46b176a19444ccff62ddce5
@@ -20362,7 +20452,17 @@ Content-Length: 3698268
 887883,578.7,dc950bc95aa93c80205bbf2abb0e3a34
 888052,1401.7,3d31bc2c480ea3f293740bec175edd0c
 888110,2519.93,2caa182001dabc453374d8afca6a39af
-888260,7.520373,236cb8dcb61d429d0871ad9e1fae4269,35006
+<user>
+ <id>888260</id>
+ <name>randrews</name>
+ <country></country>
+ <create_time>1389616610</create_time>
+ <total_credit>1408918.845318</total_credit>
+ <expavg_credit>7.520373</expavg_credit>
+ <expavg_time>1593066001.853288</expavg_time>
+ <cpid>236cb8dcb61d429d0871ad9e1fae4269</cpid>
+ <teamid>35006</teamid>
+</user>
 888278,4150.49,d76fa50a8b4f424d09f1f4d02e2e3a7d
 888531,320.71,e4b33866fe93470890ddcccd6861f987
 889498,991.23,a9d381c6a1f241f484488ea238618a21
@@ -20705,7 +20805,17 @@ Content-Length: 3698268
 908938,1068.24,c3731c75fc1f5d04e0279722df9ea738
 909039,372.48,4da94d7945aedd211b4d9516539ff250
 909049,3599.59,7f0d4b2ecb0b32f618372c7dab3dba0e
-909052,0.095001,135cbdc633651a6f344280dd00402359,35006
+<user>
+ <id>909052</id>
+ <name>jayfreck</name>
+ <country></country>
+ <create_time>1395673389</create_time>
+ <total_credit>806206.790578</total_credit>
+ <expavg_credit>0.095001</expavg_credit>
+ <expavg_time>1523082001.542255</expavg_time>
+ <cpid>135cbdc633651a6f344280dd00402359</cpid>
+ <teamid>35006</teamid>
+</user>
 909080,2115.54,21ae30a8fa11490eff8e2ece74a4b948
 909136,276.67,edf4c8a5f149e4848dd5094584c99c54
 909137,262.28,24d995651c0b6bb6d923031671cde569
@@ -22769,7 +22879,17 @@ Content-Length: 3698268
 985389,1431.33,979630152b1d68a47cfd00c9e6577e56
 985422,1811.66,1a57fc391dff861080c23c92bdf65763
 985423,268.52,6d38dc6ee8ecbaa7adf014b381e70df6
-985430,0.094837,5c192f8279a01e52bf4ba796b902cd93,35006
+<user>
+ <id>985430</id>
+ <name>easyrhino</name>
+ <country>UNITED STATES</country>
+ <create_time>1441408420</create_time>
+ <total_credit>217689.155340</total_credit>
+ <expavg_credit>0.094837</expavg_credit>
+ <expavg_time>1591834801.990352</expavg_time>
+ <cpid>5c192f8279a01e52bf4ba796b902cd93</cpid>
+ <teamid>35006</teamid>
+</user>
 985442,578.87,975be400e63aa05f45af471abc54d440
 985455,4818.79,04283832af2f6b68249de40b4437717d
 985456,2754.01,ee6eb59e9c94fe456e5d02bd9811fe98
@@ -24738,7 +24858,17 @@ Content-Length: 3698268
 1027308,782.05,c4ca67e44a5ed320a61f70adcc403cbf
 1027328,858.13,5a29bcbb9680d4015effbbc125263248
 1027343,12795.18,9bb2e0e5d366caab7f1203762c337c0b
-1027347,194113.102430,82e63a509a38e2201f08c819457df57f,35006
+<user>
+ <id>1027347</id>
+ <name>amygdala</name>
+ <country></country>
+ <create_time>1484764791</create_time>
+ <total_credit>38861485.009129</total_credit>
+ <expavg_credit>194113.102430</expavg_credit>
+ <expavg_time>1593173713.389259</expavg_time>
+ <cpid>82e63a509a38e2201f08c819457df57f</cpid>
+ <teamid>35006</teamid>
+</user>
 1027351,30425.3,2fa5216607ecda3cfb99050e305ceb4f,30513
 1027357,418.98,789f6596033e8812beb554c22b7160bf
 1027362,1221.51,b2966a8410d3df3e56a7c8e3d051b039
@@ -25554,7 +25684,17 @@ Content-Length: 3698268
 1045452,454.16,29fbb7332c41d7dca41b39f07e1f33a0
 1045473,2286.7,b65277a7016d594b233aa32ca7633883
 1045526,994.61,7391783b3cb1587856e3292d29bc8de6
-1045555,1.322904,3a9e4fef5aab78f76001fc0e81add764,35006
+<user>
+ <id>1045555</id>
+ <name>HisMessengerDAB</name>
+ <country>UNITED STATES</country>
+ <create_time>1501157549</create_time>
+ <total_credit>134732.742600</total_credit>
+ <expavg_credit>1.322904</expavg_credit>
+ <expavg_time>1593130801.604618</expavg_time>
+ <cpid>3a9e4fef5aab78f76001fc0e81add764</cpid>
+ <teamid>35006</teamid>
+</user>
 1045577,1004.49,002062059606fdb02517557366383913
 1045616,1010.66,c3c35d24171248d7a5aee00cea1e89b8
 1045619,1079.08,6873066da5761649a851efb4496d1e4e
@@ -26288,7 +26428,17 @@ Content-Length: 3698268
 1061159,6958.39,9d84891e814e0d822e6c11e5dff4d256
 1061211,2855.74,a8bca69234fe13a586471cbadf0325fb
 1061219,457.61,1cabb833979a4c43a4aae60b0f045da9
-1061225,0.093455,283bdf9ab5f769086a50b813a09a800e,35006
+<user>
+ <id>1061225</id>
+ <name>Saagar28</name>
+ <country>INDIA</country>
+ <create_time>1516361566</create_time>
+ <total_credit>2448.887917</total_credit>
+ <expavg_credit>0.093455</expavg_credit>
+ <expavg_time>1561141201.029683</expavg_time>
+ <cpid>283bdf9ab5f769086a50b813a09a800e</cpid>
+ <teamid>35006</teamid>
+</user>
 1061288,787.14,be340f375479cd2a9563564d25822880
 1061295,1162.72,0490f231070d8ca8792c932657a23c5b
 1061375,5360.69,e18ff5b8420dae26d49ec9e31b4d2c45,30513
@@ -26408,7 +26558,17 @@ Content-Length: 3698268
 1063036,1718.35,53645b4b16c5310c29e0e1e62ce05dd7
 1063039,956.29,892c849cd51c859f62cc9f4cb555115d
 1063041,2421.3,b8abf4598b5478fca8020369ba147db1
-1063047,0.092823,d497f4e2f78949c7025c6844f87650fd,35006
+<user>
+ <id>1063047</id>
+ <name>jagadeesan2205</name>
+ <country>INDIA</country>
+ <create_time>1518446757</create_time>
+ <total_credit>1330.051054</total_credit>
+ <expavg_credit>0.092823</expavg_credit>
+ <expavg_time>1526365201.164892</expavg_time>
+ <cpid>d497f4e2f78949c7025c6844f87650fd</cpid>
+ <teamid>35006</teamid>
+</user>
 1063091,2431.29,51149355767435fbf53a228416070f79
 1063093,781.4,9bc6190d86f77dcdda59a3c64127093f
 1063102,462.59,2530304a8f2e0fc297ee328a03abdd9a
@@ -26575,43 +26735,383 @@ Content-Length: 3698268
 1065522,1589.42,baa55cd5a8e22c866ec4d6f88ff2ccd5
 1065525,1672.4,25d183739e672dedf007a9f4edc64928
 1065527,6826.55,a71b48c5cedc83f36deb46e9732f484a
-1065532,0.091120,7d88742e6231e225229fe4e05e27d8f3,35006
-1065533,0.091259,3c4dbf398e2a1062bd695366dad41f8a,35006
-1065534,0.098796,af1a25971906fd8404b098272fbf7336,35006
-1065538,0.088692,d9b22fccfae5582d4ee7838883aaa3cf,35006
-1065539,0.095170,ab559f2ce36aab854df58605aa08b50c,35006
-1065540,9200.145231,04fba56d89a5eb38b1b82f8a6240132c,35006
-1065541,0.091577,e94c1704c75f731f8bfde303f08408ee,35006
-1065542,11472.365064,8735cfe64d964416dba6015eb414cf7e,35006
-1065549,0.093114,cd6fb68c37e57961dc6855a0ae6a6fcc,35006
-1065551,118649.647469,96dd37e1691a6844e752b6eb14a60e55,35006
-1065556,0.095437,18184715067c5a84fc8827c946267999,35006
-1065562,0.099353,f75aecf265ef66a949ddfc750f9e45f1,35006
-1065567,0.098762,1f2457b22c5ca6553a537b708c52ce7f,35006
-1065571,0.091446,fad380a01204898a8fe90271fe9205d5,35006
-1065572,0.094942,c117f5ddc829b502ea8cd00647585856,35006
-1065573,0.098767,8f3c971e7e4a5d3439a5a06fc32998fe,35006
-1065587,50109.024882,fa5062d1c29baf2e298b674f40ee59b7,35006
-1065589,8430.724716,dde30f3ef57ed2df69ecbc687db75e46,35006
-1065591,0.091013,71ab1db88109cd3fa2f798b8a8a2c15b,35006
-1065593,0.093483,307c54df37dd7a158ef9fd7dfe1a1815,35006
-1065595,0.099239,3f6e58ad467f9374170a68c6d7b1363c,35006
-1065599,0.094710,72fe673dd60fbd69f54a84b77c246f69,35006
-1065600,0.090282,6785ded1f65063ef8f01f42deb31cf1d,35006
+<user>
+ <id>1065532</id>
+ <name>bible_pay</name>
+ <country></country>
+ <create_time>1522336435</create_time>
+ <total_credit>4487.089888</total_credit>
+ <expavg_credit>0.091120</expavg_credit>
+ <expavg_time>1530555601.911360</expavg_time>
+ <cpid>7d88742e6231e225229fe4e05e27d8f3</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065533</id>
+ <name>toolmanntic</name>
+ <country></country>
+ <create_time>1522336751</create_time>
+ <total_credit>5313221.306217</total_credit>
+ <expavg_credit>0.091259</expavg_credit>
+ <expavg_time>1557447601.259823</expavg_time>
+ <cpid>3c4dbf398e2a1062bd695366dad41f8a</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065534</id>
+ <name>Onii-chan</name>
+ <country>JAPAN</country>
+ <create_time>1522337144</create_time>
+ <total_credit>169872326.364979</total_credit>
+ <expavg_credit>0.098796</expavg_credit>
+ <expavg_time>1557015601.343388</expavg_time>
+ <cpid>af1a25971906fd8404b098272fbf7336</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065538</id>
+ <name>jaapgvk</name>
+ <country>NETHERLANDS</country>
+ <create_time>1522338109</create_time>
+ <total_credit>916480.146199</total_credit>
+ <expavg_credit>0.088692</expavg_credit>
+ <expavg_time>1588141201.452374</expavg_time>
+ <cpid>d9b22fccfae5582d4ee7838883aaa3cf</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065539</id>
+ <name>001ar</name>
+ <country></country>
+ <create_time>1522338240</create_time>
+ <total_credit>28313147.006037</total_credit>
+ <expavg_credit>0.095170</expavg_credit>
+ <expavg_time>1563409201.084574</expavg_time>
+ <cpid>ab559f2ce36aab854df58605aa08b50c</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065540</id>
+ <name>orbis</name>
+ <country>SLOVAKIA</country>
+ <create_time>1522344269</create_time>
+ <total_credit>10208178.835784</total_credit>
+ <expavg_credit>9200.145231</expavg_credit>
+ <expavg_time>1593173702.373792</expavg_time>
+ <cpid>04fba56d89a5eb38b1b82f8a6240132c</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065541</id>
+ <name>T-MIKE</name>
+ <country></country>
+ <create_time>1522344376</create_time>
+ <total_credit>5589935.230486</total_credit>
+ <expavg_credit>0.091577</expavg_credit>
+ <expavg_time>1539390001.133617</expavg_time>
+ <cpid>e94c1704c75f731f8bfde303f08408ee</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065542</id>
+ <name>Kismar</name>
+ <country>UNITED STATES</country>
+ <create_time>1522345016</create_time>
+ <total_credit>7190171.056389</total_credit>
+ <expavg_credit>11472.365064</expavg_credit>
+ <expavg_time>1593173586.311134</expavg_time>
+ <cpid>8735cfe64d964416dba6015eb414cf7e</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065549</id>
+ <name>littlebro</name>
+ <country></country>
+ <create_time>1522352631</create_time>
+ <total_credit>16776086.079845</total_credit>
+ <expavg_credit>0.093114</expavg_credit>
+ <expavg_time>1586866801.155030</expavg_time>
+ <cpid>cd6fb68c37e57961dc6855a0ae6a6fcc</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065551</id>
+ <name>_talisman_</name>
+ <country></country>
+ <create_time>1522355001</create_time>
+ <total_credit>79789840.961751</total_credit>
+ <expavg_credit>118649.647469</expavg_credit>
+ <expavg_time>1593173683.926065</expavg_time>
+ <cpid>96dd37e1691a6844e752b6eb14a60e55</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065556</id>
+ <name>tomago</name>
+ <country>SLOVAKIA</country>
+ <create_time>1522361444</create_time>
+ <total_credit>1121819.452181</total_credit>
+ <expavg_credit>0.095437</expavg_credit>
+ <expavg_time>1553775601.178680</expavg_time>
+ <cpid>18184715067c5a84fc8827c946267999</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065562</id>
+ <name>FAHQ420</name>
+ <country>UNITED STATES</country>
+ <create_time>1522366143</create_time>
+ <total_credit>281915.013750</total_credit>
+ <expavg_credit>0.099353</expavg_credit>
+ <expavg_time>1565137201.863022</expavg_time>
+ <cpid>f75aecf265ef66a949ddfc750f9e45f1</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065567</id>
+ <name>SEOO</name>
+ <country></country>
+ <create_time>1522372671</create_time>
+ <total_credit>159195.542465</total_credit>
+ <expavg_credit>0.098762</expavg_credit>
+ <expavg_time>1537381202.034911</expavg_time>
+ <cpid>1f2457b22c5ca6553a537b708c52ce7f</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065571</id>
+ <name>zthomasz</name>
+ <country>UNITED STATES</country>
+ <create_time>1522375009</create_time>
+ <total_credit>874183.040125</total_credit>
+ <expavg_credit>0.091446</expavg_credit>
+ <expavg_time>1565223601.858726</expavg_time>
+ <cpid>fad380a01204898a8fe90271fe9205d5</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065572</id>
+ <name>mrtien</name>
+ <country>VIET NAM</country>
+ <create_time>1522375111</create_time>
+ <total_credit>864325.171350</total_credit>
+ <expavg_credit>0.094942</expavg_credit>
+ <expavg_time>1557879601.983381</expavg_time>
+ <cpid>c117f5ddc829b502ea8cd00647585856</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065573</id>
+ <name>PPX_X</name>
+ <country></country>
+ <create_time>1522375134</create_time>
+ <total_credit>189.447646</total_credit>
+ <expavg_credit>0.098767</expavg_credit>
+ <expavg_time>1530015601.584911</expavg_time>
+ <cpid>8f3c971e7e4a5d3439a5a06fc32998fe</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065587</id>
+ <name>pagalo</name>
+ <country>GREECE</country>
+ <create_time>1522395676</create_time>
+ <total_credit>18823674.235180</total_credit>
+ <expavg_credit>50109.024882</expavg_credit>
+ <expavg_time>1593173764.823794</expavg_time>
+ <cpid>fa5062d1c29baf2e298b674f40ee59b7</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065589</id>
+ <name>nuclearpowerplantmochovce</name>
+ <country>SLOVAKIA</country>
+ <create_time>1522399387</create_time>
+ <total_credit>38802371.039984</total_credit>
+ <expavg_credit>8430.724716</expavg_credit>
+ <expavg_time>1593171861.219329</expavg_time>
+ <cpid>dde30f3ef57ed2df69ecbc687db75e46</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065591</id>
+ <name>GT_SVK</name>
+ <country>SLOVAKIA</country>
+ <create_time>1522400305</create_time>
+ <total_credit>3723851.488651</total_credit>
+ <expavg_credit>0.091013</expavg_credit>
+ <expavg_time>1557663601.724702</expavg_time>
+ <cpid>71ab1db88109cd3fa2f798b8a8a2c15b</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065593</id>
+ <name>znjrols</name>
+ <country></country>
+ <create_time>1522401509</create_time>
+ <total_credit>111343.050317</total_credit>
+ <expavg_credit>0.093483</expavg_credit>
+ <expavg_time>1532910001.988931</expavg_time>
+ <cpid>307c54df37dd7a158ef9fd7dfe1a1815</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065595</id>
+ <name>kozmo21</name>
+ <country>SLOVAKIA</country>
+ <create_time>1522407264</create_time>
+ <total_credit>21979319.654933</total_credit>
+ <expavg_credit>0.099239</expavg_credit>
+ <expavg_time>1563193201.581869</expavg_time>
+ <cpid>3f6e58ad467f9374170a68c6d7b1363c</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065599</id>
+ <name>csteele1982</name>
+ <country></country>
+ <create_time>1522410287</create_time>
+ <total_credit>153170.423342</total_credit>
+ <expavg_credit>0.094710</expavg_credit>
+ <expavg_time>1545157201.854649</expavg_time>
+ <cpid>72fe673dd60fbd69f54a84b77c246f69</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065600</id>
+ <name>ischindl</name>
+ <country>SLOVAKIA</country>
+ <create_time>1522410543</create_time>
+ <total_credit>1675017.815384</total_credit>
+ <expavg_credit>0.090282</expavg_credit>
+ <expavg_time>1561681201.613472</expavg_time>
+ <cpid>6785ded1f65063ef8f01f42deb31cf1d</cpid>
+ <teamid>35006</teamid>
+</user>
 1065609,478.88,dee69695df706940b2d1e486db1bab12
 1065610,11216.09,33457af090316cba2de7e067358a64b6
-1065614,0.097496,96892ec0fc8a2710fa84f26c9c84cd3e,35006
-1065615,0.089704,a9420a038e44750c69ca4497fe08c2a9,35006
-1065617,0.096679,844fba491f78b5e47a75bdcf5570ce4c,35006
-1065620,0.089601,252455be172ea3aa289d1237fce91818,35006
+<user>
+ <id>1065614</id>
+ <name>MIPPL</name>
+ <country>SPAIN</country>
+ <create_time>1522424627</create_time>
+ <total_credit>916665.030447</total_credit>
+ <expavg_credit>0.097496</expavg_credit>
+ <expavg_time>1591899601.347537</expavg_time>
+ <cpid>96892ec0fc8a2710fa84f26c9c84cd3e</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065615</id>
+ <name>volodaj</name>
+ <country></country>
+ <create_time>1522424683</create_time>
+ <total_credit>720217.488387</total_credit>
+ <expavg_credit>0.089704</expavg_credit>
+ <expavg_time>1561573201.608050</expavg_time>
+ <cpid>a9420a038e44750c69ca4497fe08c2a9</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065617</id>
+ <name>Jolteon</name>
+ <country></country>
+ <create_time>1522427070</create_time>
+ <total_credit>23392.315579</total_credit>
+ <expavg_credit>0.096679</expavg_credit>
+ <expavg_time>1532370002.034039</expavg_time>
+ <cpid>844fba491f78b5e47a75bdcf5570ce4c</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065620</id>
+ <name>Byteball_ca5c3124</name>
+ <country>FINLAND</country>
+ <create_time>1522428861</create_time>
+ <total_credit>258498.798873</total_credit>
+ <expavg_credit>0.089601</expavg_credit>
+ <expavg_time>1560925201.377704</expavg_time>
+ <cpid>252455be172ea3aa289d1237fce91818</cpid>
+ <teamid>35006</teamid>
+</user>
 1065621,13142,e7ae6abd6284b05f3fd5f7c780e60bc7
-1065622,0.147823,cff387bbcc09d7dbacccebb8664252fa,35006
-1065623,31.828105,982538340112287ed60723499adfeb4b,35006
-1065625,0.091569,1414175ac4ea3dfbb9fb7caf13540319,35006
-1065632,0.096881,3a0830095363b8fd8267e2550439d58f,35006
-1065636,0.091293,6bcd1f25dc07679db5ad812a012df1a4,35006
-1065643,0.097949,6cf45c3b54ef7c08d15838446a98ef24,35006
-1065651,0.099980,5642710af3976838b7a25171e04b3244,35006
+<user>
+ <id>1065622</id>
+ <name>Millerpr</name>
+ <country>IRELAND</country>
+ <create_time>1522429969</create_time>
+ <total_credit>12384307.141463</total_credit>
+ <expavg_credit>0.147823</expavg_credit>
+ <expavg_time>1593087601.950996</expavg_time>
+ <cpid>cff387bbcc09d7dbacccebb8664252fa</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065623</id>
+ <name>Sakic</name>
+ <country></country>
+ <create_time>1522432058</create_time>
+ <total_credit>58537419.910056</total_credit>
+ <expavg_credit>31.828105</expavg_credit>
+ <expavg_time>1593066001.853288</expavg_time>
+ <cpid>982538340112287ed60723499adfeb4b</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065625</id>
+ <name>gagaha</name>
+ <country></country>
+ <create_time>1522432346</create_time>
+ <total_credit>5636458.872260</total_credit>
+ <expavg_credit>0.091569</expavg_credit>
+ <expavg_time>1562113201.775950</expavg_time>
+ <cpid>1414175ac4ea3dfbb9fb7caf13540319</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065632</id>
+ <name>gorbi77</name>
+ <country></country>
+ <create_time>1522437603</create_time>
+ <total_credit>333844.432115</total_credit>
+ <expavg_credit>0.096881</expavg_credit>
+ <expavg_time>1556475601.934116</expavg_time>
+ <cpid>3a0830095363b8fd8267e2550439d58f</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065636</id>
+ <name>bfast250</name>
+ <country></country>
+ <create_time>1522446046</create_time>
+ <total_credit>74289.473663</total_credit>
+ <expavg_credit>0.091293</expavg_credit>
+ <expavg_time>1547749202.019467</expavg_time>
+ <cpid>6bcd1f25dc07679db5ad812a012df1a4</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065643</id>
+ <name>BWW1</name>
+ <country>UNITED STATES</country>
+ <create_time>1522463717</create_time>
+ <total_credit>120004.387566</total_credit>
+ <expavg_credit>0.097949</expavg_credit>
+ <expavg_time>1536344401.616330</expavg_time>
+ <cpid>6cf45c3b54ef7c08d15838446a98ef24</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065651</id>
+ <name>nikos3370</name>
+ <country></country>
+ <create_time>1522475363</create_time>
+ <total_credit>476030.383728</total_credit>
+ <expavg_credit>0.099980</expavg_credit>
+ <expavg_time>1536020401.337778</expavg_time>
+ <cpid>5642710af3976838b7a25171e04b3244</cpid>
+ <teamid>35006</teamid>
+</user>
 1065657,881.8,df4f553d56e7a18c0c3fa4239a2730c7
 1065664,656.1,ac4c160beabfce588553d048ca00ab18
 1065678,785.56,764cab30bd1cb3d889008c14b4c61e93
@@ -26619,16 +27119,56 @@ Content-Length: 3698268
 1065692,1822.7,63c570f1d30eed05a72c4afbf3567c14
 1065698,1799.29,0ac5d26d65ed073fb4c1c9521227e05d
 1065706,872.27,4284591313dc128df5872f1f0453e754
-1065718,23681.012700,48a51295337d9970eebe9e28adb1c85a,35006
+<user>
+ <id>1065718</id>
+ <name>fallen1</name>
+ <country></country>
+ <create_time>1522595217</create_time>
+ <total_credit>22923749.612127</total_credit>
+ <expavg_credit>23681.012700</expavg_credit>
+ <expavg_time>1593171530.740927</expavg_time>
+ <cpid>48a51295337d9970eebe9e28adb1c85a</cpid>
+ <teamid>35006</teamid>
+</user>
 1065730,5482.12,ec9498af7b3a57db61aae4c9990d2b1a
 1065754,405.36,1500066f5938b375cbd490d101469c94
-1065759,0.099526,0180bd8d54ecfd8bc42f1247650516a5,35006
-1065773,0.091699,5c7a5e973a6bbbb27f1fc17d69bb870f,35006
+<user>
+ <id>1065759</id>
+ <name>DeeBee</name>
+ <country></country>
+ <create_time>1522666413</create_time>
+ <total_credit>63661.862414</total_credit>
+ <expavg_credit>0.099526</expavg_credit>
+ <expavg_time>1574684401.920823</expavg_time>
+ <cpid>0180bd8d54ecfd8bc42f1247650516a5</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1065773</id>
+ <name>marianPVL</name>
+ <country>IRELAND</country>
+ <create_time>1522682270</create_time>
+ <total_credit>1675598.410123</total_credit>
+ <expavg_credit>0.091699</expavg_credit>
+ <expavg_time>1561681201.613472</expavg_time>
+ <cpid>5c7a5e973a6bbbb27f1fc17d69bb870f</cpid>
+ <teamid>35006</teamid>
+</user>
 1065784,1232.18,f0a181d91f988f3c1c5846bc88641812
 1065789,1039.57,d9e22d365703076667b4a77cbb4b1992
 1065795,2565.67,97f57b08cf47b0c73040b9b5c0ca15ab
 1065854,266.6,016cc2892af538ffbebedc72faf1edd9
-1065857,0.095556,2b63a5e80f42205f07c7a03b37492694,35006
+<user>
+ <id>1065857</id>
+ <name>Byteball_5ef53096</name>
+ <country></country>
+ <create_time>1522837676</create_time>
+ <total_credit>5394685.537730</total_credit>
+ <expavg_credit>0.095556</expavg_credit>
+ <expavg_time>1563949201.888783</expavg_time>
+ <cpid>2b63a5e80f42205f07c7a03b37492694</cpid>
+ <teamid>35006</teamid>
+</user>
 1065869,4938.24,6cfc656b4700b6cf7a86f67e3692e359
 1065870,944.59,43c36cffa610aa688b4052537d8a0542
 1065880,633.74,34eb1fa1e13c9d40c2c4208095aaff45
@@ -26646,19 +27186,69 @@ Content-Length: 3698268
 1066049,1292.93,8c7fc10b60363d38610fb7ac061a15cc
 1066054,2274.13,cf24176e5e37b335881258701542ffad
 1066083,1279.9,5868a582f43aac7e4d2192e03da7a7b7
-1066100,0.088990,830209ede4dd13390232e9be12921095,35006
-1066103,0.099015,a47dadaf98dbb6d673af4a8f043af83c,35006
+<user>
+ <id>1066100</id>
+ <name>Byteball_883d195</name>
+ <country>SLOVAKIA</country>
+ <create_time>1523314042</create_time>
+ <total_credit>14718049.964010</total_credit>
+ <expavg_credit>0.088990</expavg_credit>
+ <expavg_time>1564813201.831437</expavg_time>
+ <cpid>830209ede4dd13390232e9be12921095</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1066103</id>
+ <name>Byteball_da591585</name>
+ <country>SLOVAKIA</country>
+ <create_time>1523321751</create_time>
+ <total_credit>10050120.046824</total_credit>
+ <expavg_credit>0.099015</expavg_credit>
+ <expavg_time>1559283601.954637</expavg_time>
+ <cpid>a47dadaf98dbb6d673af4a8f043af83c</cpid>
+ <teamid>35006</teamid>
+</user>
 1066105,2583.92,f9459e115494e767cc3a0c895329f668
 1066106,1887.69,248a290830738c5d5be21c695640aa0d,30513
 1066108,392.87,e089e1f18a0893f35c9d3502860428a8
 1066118,27499.65,af1fbd9b2a7e079598816631ee566353
 1066127,2882.98,d4b35d5e7311700b8f109b0a9cd58148
-1066130,180664.333266,e7c056024cd3b781edd5af37965c652c,35006
+<user>
+ <id>1066130</id>
+ <name>capulo</name>
+ <country>SLOVAKIA</country>
+ <create_time>1523366299</create_time>
+ <total_credit>104123289.622420</total_credit>
+ <expavg_credit>180664.333266</expavg_credit>
+ <expavg_time>1593173634.627864</expavg_time>
+ <cpid>e7c056024cd3b781edd5af37965c652c</cpid>
+ <teamid>35006</teamid>
+</user>
 1066147,4011.12,08e14c59c44acc5e132a16b5e5598040
 1066152,2627.66,7550e8f01022ff797e22abee085b20cb
 1066160,306.46,1716016b61950f06ca8658bdf387d67d
-1066166,0.095732,020745447ade580e305f3945fa5ea760,35006
-1066167,1753.406175,e6ce50042187d4b285568d86ef458f32,35006
+<user>
+ <id>1066166</id>
+ <name>sunlily</name>
+ <country></country>
+ <create_time>1523412482</create_time>
+ <total_credit>12317800.776117</total_credit>
+ <expavg_credit>0.095732</expavg_credit>
+ <expavg_time>1588184401.902707</expavg_time>
+ <cpid>020745447ade580e305f3945fa5ea760</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1066167</id>
+ <name>ichthus220</name>
+ <country></country>
+ <create_time>1523418030</create_time>
+ <total_credit>506967.266181</total_credit>
+ <expavg_credit>1753.406175</expavg_credit>
+ <expavg_time>1593166994.687341</expavg_time>
+ <cpid>e6ce50042187d4b285568d86ef458f32</cpid>
+ <teamid>35006</teamid>
+</user>
 1066200,1618.2,db243971d698d41fa8b642b9e85e16ae
 1066204,3167.83,1fe84a8b781386ed3d0e57ed9071dbd8
 1066207,610.14,bcafcd37d6dab5828c37092880f06426
@@ -26666,13 +27256,43 @@ Content-Length: 3698268
 1066217,850.77,e83a486f47c40f7769b3756e9120adc2
 1066258,710.43,2dc34bdd872d520736100656af5fefcf
 1066272,1452.23,0475f461e421bbc3c9c7c5319c06d11c
-1066279,0.089063,2c52820917859e809d560b7d9823bbfb,35006
+<user>
+ <id>1066279</id>
+ <name>Byteball_bb493831</name>
+ <country>SLOVAKIA</country>
+ <create_time>1523631027</create_time>
+ <total_credit>1620090.244226</total_credit>
+ <expavg_credit>0.089063</expavg_credit>
+ <expavg_time>1559391601.294434</expavg_time>
+ <cpid>2c52820917859e809d560b7d9823bbfb</cpid>
+ <teamid>35006</teamid>
+</user>
 1066291,909.3,2024c5fd8cbb5a797ab37ada0889a51e
 1066301,501.33,db3c843b0c11b6f733fcf5c92e3805ea
 1066303,1658.27,30f3e01d73e29fccfd895f80fb587e9f
 1066304,835.52,dea6c98309dd86e4504079b9e70542d9
-1066307,0.091328,a64253121d79782c27cfaa3429412a64,35006
-1066312,0.098463,5f21a0edf3656058e232f593b29aa8ab,35006
+<user>
+ <id>1066307</id>
+ <name>sirmike</name>
+ <country></country>
+ <create_time>1523693844</create_time>
+ <total_credit>5850661.521685</total_credit>
+ <expavg_credit>0.091328</expavg_credit>
+ <expavg_time>1557987601.302249</expavg_time>
+ <cpid>a64253121d79782c27cfaa3429412a64</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1066312</id>
+ <name>hsb0</name>
+ <country></country>
+ <create_time>1523696112</create_time>
+ <total_credit>696913.225448</total_credit>
+ <expavg_credit>0.098463</expavg_credit>
+ <expavg_time>1538526001.138829</expavg_time>
+ <cpid>5f21a0edf3656058e232f593b29aa8ab</cpid>
+ <teamid>35006</teamid>
+</user>
 1066321,692.53,4b22dc56cd525e527fa32516f63f6ab3
 1066336,979.97,64740e96fb6e854673d56ceffe1cf3b7
 1066342,2482.95,03c76f5099a2763c5bb01de5959f2b8c
@@ -26689,42 +27309,152 @@ Content-Length: 3698268
 1066535,1434.69,f1def885fce4f27ac3ecad9a22b40eea
 1066540,25927.71,12914438c80694a57a68427bd2f22d8e
 1066577,890.87,f7488b0407866509b1cefcf59d70e978
-1066585,130660.770004,684b644e09134455f34639d65bea3851,35006
+<user>
+ <id>1066585</id>
+ <name>geokats</name>
+ <country>GREECE</country>
+ <create_time>1524127144</create_time>
+ <total_credit>12637078.310248</total_credit>
+ <expavg_credit>130660.770004</expavg_credit>
+ <expavg_time>1593173665.792214</expavg_time>
+ <cpid>684b644e09134455f34639d65bea3851</cpid>
+ <teamid>35006</teamid>
+</user>
 1066602,516.44,0c594b58e61ca89d84609aa0a0106853
-1066605,0.093583,02b8ebdf635b70b734e1c50239ee8dfe,35006
-1066633,100.415814,50a2185646c75d645ef0230f99d2572b,35006
+<user>
+ <id>1066605</id>
+ <name>coininspect</name>
+ <country></country>
+ <create_time>1524153815</create_time>
+ <total_credit>961931.777891</total_credit>
+ <expavg_credit>0.093583</expavg_credit>
+ <expavg_time>1540772401.928893</expavg_time>
+ <cpid>02b8ebdf635b70b734e1c50239ee8dfe</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1066633</id>
+ <name>anwanw</name>
+ <country>UNITED STATES</country>
+ <create_time>1524207531</create_time>
+ <total_credit>4359061.806018</total_credit>
+ <expavg_credit>100.415814</expavg_credit>
+ <expavg_time>1593130801.604618</expavg_time>
+ <cpid>50a2185646c75d645ef0230f99d2572b</cpid>
+ <teamid>35006</teamid>
+</user>
 1066651,1541.98,a2f905fd972a79f51a66fb4fd1692858
 1066652,1713.99,e26897e1608a42492e3e66de6ab0caf8
 1066655,10360.23,ba0e2e3b83c642c564bb6f9dc512f1d0
 1066658,742.26,379af93a6cab76cb5da1a3ff30fad997
 1066661,5274.67,3cb52bb53d72bb6e792f58d041ee9c33
 1066678,2685.43,8c2c45c20b66be2dce6b00b87e83990d
-1066686,0.099735,2810b333cea42c641f18c55063e20523,35006
+<user>
+ <id>1066686</id>
+ <name>proofwcg</name>
+ <country></country>
+ <create_time>1524312064</create_time>
+ <total_credit>13040.338811</total_credit>
+ <expavg_credit>0.099735</expavg_credit>
+ <expavg_time>1532910001.988931</expavg_time>
+ <cpid>2810b333cea42c641f18c55063e20523</cpid>
+ <teamid>35006</teamid>
+</user>
 1066693,40011.93,3f9666983059b76ad5246954134a9df7
 1066696,392.58,5998bb15a3468babaa6613b4d264061b,30513
-1066712,0.088656,b340524a41bd87f75c2927ad0a24f0bc,35006
+<user>
+ <id>1066712</id>
+ <name>bbpminer4</name>
+ <country></country>
+ <create_time>1524371143</create_time>
+ <total_credit>11744473.174956</total_credit>
+ <expavg_credit>0.088656</expavg_credit>
+ <expavg_time>1585398001.652722</expavg_time>
+ <cpid>b340524a41bd87f75c2927ad0a24f0bc</cpid>
+ <teamid>35006</teamid>
+</user>
 1066720,7119.1,8412605ad6c55e9fdc15397c6c1ccb1a
 1066752,408.58,4006b65b5dfe51328dee16829cc2c123
-1066795,0.098293,d640a67de99d1bb99f4d4131405946a3,35006
+<user>
+ <id>1066795</id>
+ <name>MrBacchus</name>
+ <country></country>
+ <create_time>1524516572</create_time>
+ <total_credit>103.469376</total_credit>
+ <expavg_credit>0.098293</expavg_credit>
+ <expavg_time>1529475601.667298</expavg_time>
+ <cpid>d640a67de99d1bb99f4d4131405946a3</cpid>
+ <teamid>35006</teamid>
+</user>
 1066821,519.26,40de8b58dc7f890bff7d8159b135a78d
-1066823,0.089104,c8b93f2cec9b8ea896539fb833c9f8cd,35006
+<user>
+ <id>1066823</id>
+ <name>Byteball_01092479</name>
+ <country>SLOVAKIA</country>
+ <create_time>1524571701</create_time>
+ <total_credit>233913.731796</total_credit>
+ <expavg_credit>0.089104</expavg_credit>
+ <expavg_time>1539908401.413194</expavg_time>
+ <cpid>c8b93f2cec9b8ea896539fb833c9f8cd</cpid>
+ <teamid>35006</teamid>
+</user>
 1066848,3902.36,5e28fa2de4f28e0148bc43b49e3693de
 1066857,4955.77,991d23ea7f224c56a8bd75849d674dde
 1066865,426.09,0eb59f16b9c622cb5b9a99cb2a212d7e
 1066893,1650.66,4848ce5f7017d395b75e2b91f3e044b2
-1066904,4087.000237,6ef7badb2a126ee8c4567f976adbd242,35006
+<user>
+ <id>1066904</id>
+ <name>uptimeminer</name>
+ <country>UNITED STATES</country>
+ <create_time>1524708408</create_time>
+ <total_credit>3482975.557320</total_credit>
+ <expavg_credit>4087.000237</expavg_credit>
+ <expavg_time>1593173758.960494</expavg_time>
+ <cpid>6ef7badb2a126ee8c4567f976adbd242</cpid>
+ <teamid>35006</teamid>
+</user>
 1066906,1474.55,72f334296de56878b5f99c7619ee2ddd
 1066913,316.9,e1e37423891539a23f10dd5f0ec69a4a
 1066949,1194.41,8494dce87eb2d41118de96d742ddedfc
 1066973,1566.59,d66eb571f29b9650dbfa92da9b599f96
 1066978,839.71,988fb6e4857873b08dce5ec09b62b089
 1066979,732.36,c841e057585fea557f3cb46411559c97
-1066985,0.093956,12a088fdaa94166734e86f3eda427f97,35006
-1066995,0.098005,fe84d1b13fe38d6f755283cb39c76c0a,35006
+<user>
+ <id>1066985</id>
+ <name>wcgmanager</name>
+ <country></country>
+ <create_time>1524836937</create_time>
+ <total_credit>322403.928991</total_credit>
+ <expavg_credit>0.093956</expavg_credit>
+ <expavg_time>1587968402.028113</expavg_time>
+ <cpid>12a088fdaa94166734e86f3eda427f97</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1066995</id>
+ <name>Byteball_00312716</name>
+ <country>SLOVAKIA</country>
+ <create_time>1524850792</create_time>
+ <total_credit>95697.964166</total_credit>
+ <expavg_credit>0.098005</expavg_credit>
+ <expavg_time>1536452401.396916</expavg_time>
+ <cpid>fe84d1b13fe38d6f755283cb39c76c0a</cpid>
+ <teamid>35006</teamid>
+</user>
 1067014,853.83,454393d17d0de9d0794801e5ceafb858
 1067043,3294.83,64b0284ebd1d905808126722ff4f5fb0
 1067044,2129.98,b88f2b64c2d485ff0195c37cfd36acda
-1067077,0.097161,1334aacdfb49248a75904d89ace59213,35006
+<user>
+ <id>1067077</id>
+ <name>thanospetr</name>
+ <country>GREECE</country>
+ <create_time>1524964887</create_time>
+ <total_credit>415434.724659</total_credit>
+ <expavg_credit>0.097161</expavg_credit>
+ <expavg_time>1550557201.934710</expavg_time>
+ <cpid>1334aacdfb49248a75904d89ace59213</cpid>
+ <teamid>35006</teamid>
+</user>
 1067105,18978.26,0d948feb265579983e96b9af98d2c261
 1067106,3442.14,20224ed2fa9f452bc2fee50211e7e53b
 1067114,19181.6,c9cba0b54320a5056d51c740dbb6ae30
@@ -26733,19 +27463,49 @@ Content-Length: 3698268
 1067141,1169.59,445bfb5e09db4f84aa57f64e04341dac
 1067169,4416.56,d03ca3319b7927dc86f01efb500567c8
 1067171,24003.66,7de214e2fc3edb958090317e4edddc00
-1067176,0.097068,7b60ab69a99e4a240481601c655b8038,35006
+<user>
+ <id>1067176</id>
+ <name>SU57</name>
+ <country>RUSSIAN FEDERATION</country>
+ <create_time>1525148806</create_time>
+ <total_credit>29778.370017</total_credit>
+ <expavg_credit>0.097068</expavg_credit>
+ <expavg_time>1535804401.479377</expavg_time>
+ <cpid>7b60ab69a99e4a240481601c655b8038</cpid>
+ <teamid>35006</teamid>
+</user>
 1067185,318.81,f4be8e9fec611df578d8857255c6d45a
 1067196,3889.14,941c15aef2e4e261110f82d96b5e0402
 1067210,1901.15,4d2c38b94383ab8ba1cce167a6be33a1
 1067233,14670.37,c76b285c2eb71c74b657008ed7814deb
-1067238,3935.911354,1a13a4f08ddee61e61b420df47d82eec,35006
+<user>
+ <id>1067238</id>
+ <name>leetlezee</name>
+ <country>UNITED STATES</country>
+ <create_time>1525185653</create_time>
+ <total_credit>1901184.121660</total_credit>
+ <expavg_credit>3935.911354</expavg_credit>
+ <expavg_time>1593157084.521451</expavg_time>
+ <cpid>1a13a4f08ddee61e61b420df47d82eec</cpid>
+ <teamid>35006</teamid>
+</user>
 1067254,2597.61,286b75b1e31ee1ca37c85ed4822e4aa7
 1067264,740.5,f40610b242306bf30658b322a1d5a5f7
 1067279,326.98,a15d3e2e6a579d682ffdcff42cc06ec0
 1067280,2206.19,3b0d0f0006a3e441b26abfcb2135502c
 1067290,916.96,489c1b0ef8a12e4337a08553a461b51f
 1067291,1590.13,81ef5922a01c1e84333a046b54ce6593
-1067293,7.527284,be686951c31249e919de411d2cefbf30,35006
+<user>
+ <id>1067293</id>
+ <name>DarkWaters79</name>
+ <country>UNITED STATES</country>
+ <create_time>1525235229</create_time>
+ <total_credit>142772.218490</total_credit>
+ <expavg_credit>7.527284</expavg_credit>
+ <expavg_time>1593130801.604618</expavg_time>
+ <cpid>be686951c31249e919de411d2cefbf30</cpid>
+ <teamid>35006</teamid>
+</user>
 1067295,994.2,96b15ce162ad810463d6c38b82d35dfc
 1067296,421.83,08a0a013c7ab116c2dab07370df90a0c,30513
 1067297,1267.56,d5c3844ec352e63cb6c3c45d2d99ff09
@@ -26756,7 +27516,17 @@ Content-Length: 3698268
 1067412,1854.18,e39b713984fa300796680f517f10b9c8
 1067428,11180.88,bb4c56173850d04d8676985e71f59215,30513
 1067435,2310.52,fe1ff56ac58ebd67c3e8de8059604e75
-1067452,0.096025,388f36d320f5dec1399fbf25d4b6d6f5,35006
+<user>
+ <id>1067452</id>
+ <name>nicko1</name>
+ <country></country>
+ <create_time>1525383190</create_time>
+ <total_credit>33984.424991</total_credit>
+ <expavg_credit>0.096025</expavg_credit>
+ <expavg_time>1545913201.408901</expavg_time>
+ <cpid>388f36d320f5dec1399fbf25d4b6d6f5</cpid>
+ <teamid>35006</teamid>
+</user>
 1067454,1748.88,ef225ae358873d3a42ca4f6253bf551e
 1067462,668.23,36cc274e622a06dd7bc90fb5aaa4d306
 1067476,533.7,80983a07328105c2d7ffd14e1f9ad5fc
@@ -26764,7 +27534,17 @@ Content-Length: 3698268
 1067503,1252.65,d35ce57c808beca6d04e1886f1b160b9
 1067516,1284.31,645479d4831bc8278734998049041b0c
 1067535,660.68,1360d4c6e3dc4e4f3deef848076e3ea1
-1067566,0.098840,1d52f5790f18ee87f054a19dac4c3ec2,35006
+<user>
+ <id>1067566</id>
+ <name>cybertag</name>
+ <country></country>
+ <create_time>1525518374</create_time>
+ <total_credit>14907670.099215</total_credit>
+ <expavg_credit>0.098840</expavg_credit>
+ <expavg_time>1568398801.986423</expavg_time>
+ <cpid>1d52f5790f18ee87f054a19dac4c3ec2</cpid>
+ <teamid>35006</teamid>
+</user>
 1067568,1293.42,c5a90e5930a03a500793bcdcee961885
 1067575,75320.1,581e00fd3ae4134e8a6ed801b793ddb0
 1067578,742.73,06036de85d30c9ca0d7b984100792e2d
@@ -26779,12 +27559,32 @@ Content-Length: 3698268
 1067708,3765.81,d03ed6867b5ebc3d5d1b25833ce3387b
 1067720,949.6,c1e58d84fb1229e0e1a75393761e51e8
 1067725,964.62,3134fb39395f01cb8cf806d185db90aa,30513
-1067742,0.092393,a74adf9eb86ce1d27784afb6978d99da,35006
+<user>
+ <id>1067742</id>
+ <name>dweebb</name>
+ <country></country>
+ <create_time>1525735068</create_time>
+ <total_credit>10138683.405258</total_credit>
+ <expavg_credit>0.092393</expavg_credit>
+ <expavg_time>1569522001.921246</expavg_time>
+ <cpid>a74adf9eb86ce1d27784afb6978d99da</cpid>
+ <teamid>35006</teamid>
+</user>
 1067765,1231.44,10a952047bc1bfa5e280ddb4968dcb5f
 1067783,610.31,1e4f3fbf5b405eb535384b789ac32947
 1067792,277.83,acbfe9f5b7f35734ee873a905ff2297e
 1067798,10376.41,5d7ea84374775d3e57f9439de7028357
-1067799,0.098120,2cac849cad8d0088174298471ec59228,35006
+<user>
+ <id>1067799</id>
+ <name>edv4ld0</name>
+ <country></country>
+ <create_time>1525810989</create_time>
+ <total_credit>7932658.380971</total_credit>
+ <expavg_credit>0.098120</expavg_credit>
+ <expavg_time>1554315601.111940</expavg_time>
+ <cpid>2cac849cad8d0088174298471ec59228</cpid>
+ <teamid>35006</teamid>
+</user>
 1067808,1055.16,4baaad4f7ab185f8bf74b7451d569f69
 1067811,4039.08,3880dd33b797d9ecf81a54372babe946
 1067821,285190.56,bafda0951356b4a2c86f3b96149f31ca
@@ -26795,10 +27595,30 @@ Content-Length: 3698268
 1067870,351.04,180684f2565d7f0482af4c4e89526325,30513
 1067884,2315.31,631ede951a7fa40296dcaf00b023111c
 1067894,10043.81,ed2fd4ca0f62b660742326f58b3f00b0
-1067915,64525.157686,c3939b61e69c6bde1eddb06708e0f96e,35006
+<user>
+ <id>1067915</id>
+ <name>sunk818</name>
+ <country>UNITED STATES</country>
+ <create_time>1525970298</create_time>
+ <total_credit>31384625.945927</total_credit>
+ <expavg_credit>64525.157686</expavg_credit>
+ <expavg_time>1593173735.324294</expavg_time>
+ <cpid>c3939b61e69c6bde1eddb06708e0f96e</cpid>
+ <teamid>35006</teamid>
+</user>
 1067917,515.79,c2d33c27ed33e939e4b55f72d5c79c46
 1067923,352.35,6d292640a44c7b680d75a0d06a6a1955
-1067929,199.288195,12adc617474710035a0be614454e7251,35006
+<user>
+ <id>1067929</id>
+ <name>adamseve303</name>
+ <country>UNITED STATES</country>
+ <create_time>1525986207</create_time>
+ <total_credit>538271.867590</total_credit>
+ <expavg_credit>199.288195</expavg_credit>
+ <expavg_time>1593152484.589558</expavg_time>
+ <cpid>12adc617474710035a0be614454e7251</cpid>
+ <teamid>35006</teamid>
+</user>
 1067936,8960.79,0afdefe1432bb321af384935a9289c81
 1067947,8934.37,cb58165be0555f863abc62df777959f7
 1067978,326.66,faec5042c9326e3b800445c42cdd19c4
@@ -26822,11 +27642,31 @@ Content-Length: 3698268
 1068413,559.72,6a5c20954575fe6439928998697233b2
 1068416,1204.49,fe048abc2c5a55933e27c1fbf4d6a0e0
 1068418,2456,b520bc9342f6c304b27a3ad15d8bc91e
-1068438,0.090178,f88240611b234043d5dfdef975c920fb,35006
+<user>
+ <id>1068438</id>
+ <name>pit78</name>
+ <country></country>
+ <create_time>1526409385</create_time>
+ <total_credit>18874605.374645</total_credit>
+ <expavg_credit>0.090178</expavg_credit>
+ <expavg_time>1558203601.187297</expavg_time>
+ <cpid>f88240611b234043d5dfdef975c920fb</cpid>
+ <teamid>35006</teamid>
+</user>
 1068448,1428.27,e4b7eddad0d117713f2d37228fe8f980
 1068474,1854,8b8f433c07e4f967f24e7c710dfd8c92
 1068478,724.92,389d4f970b8bec285ac3d0d82d279d4c
-1068482,11073.551661,7c9264559fef3c1c689ee9fc3ff42494,35006
+<user>
+ <id>1068482</id>
+ <name>dave_boinc</name>
+ <country>GERMANY</country>
+ <create_time>1526470166</create_time>
+ <total_credit>16575481.615720</total_credit>
+ <expavg_credit>11073.551661</expavg_credit>
+ <expavg_time>1593173609.394232</expavg_time>
+ <cpid>7c9264559fef3c1c689ee9fc3ff42494</cpid>
+ <teamid>35006</teamid>
+</user>
 1068485,1040.87,b5144425ab9810ecf71cc75b2a6f1dd5
 1068487,8424.3,c1afae92f6a07c45ecc2d38b7f26cbdc
 1068528,2055.45,8b018fc198bc9d6ef4d41ae2a48c8ada
@@ -26834,18 +27674,58 @@ Content-Length: 3698268
 1068551,290.52,4912d7d50f436ca8f19ee5767938bab8
 1068568,692.4,4eb95bddafd5e82ba7b2acbb10c9961d
 1068589,662.81,cb4876e17bdb98ab0c288c180962bcdb
-1068590,0.369576,7e31d78f5c5a3316baa7e609fb840666,35006
+<user>
+ <id>1068590</id>
+ <name>bbppool</name>
+ <country></country>
+ <create_time>1526610872</create_time>
+ <total_credit>15863705.121140</total_credit>
+ <expavg_credit>0.369576</expavg_credit>
+ <expavg_time>1593087601.950996</expavg_time>
+ <cpid>7e31d78f5c5a3316baa7e609fb840666</cpid>
+ <teamid>35006</teamid>
+</user>
 1068623,14904.65,398ce48087f57ef64efe4868c6d3a104
 1068625,15432.34,5223eb366211f7f46466c03d85a5f06b
 1068630,34350.75,b16635f72a5877667578f254edc3b1c4
 1068660,305.21,ece6b21c8766a95ea04120fc89c48aef
-1068673,0.099608,d14bbb0fb7b434869d2927044513edeb,35006
+<user>
+ <id>1068673</id>
+ <name>KappoDe_Komzo</name>
+ <country>SLOVAKIA</country>
+ <create_time>1526705776</create_time>
+ <total_credit>19606.345783</total_credit>
+ <expavg_credit>0.099608</expavg_credit>
+ <expavg_time>1543040401.274236</expavg_time>
+ <cpid>d14bbb0fb7b434869d2927044513edeb</cpid>
+ <teamid>35006</teamid>
+</user>
 1068676,1471.14,7ee48bf0174cb14bad7a0ac763c062bb
 1068754,687.66,720b8300613ae9fd61b4e3d339a7a95d
-1068765,0.094887,b49aaf35f6a00767361646d230c99d6d,35006
+<user>
+ <id>1068765</id>
+ <name>Leon82</name>
+ <country></country>
+ <create_time>1526849912</create_time>
+ <total_credit>2075.172377</total_credit>
+ <expavg_credit>0.094887</expavg_credit>
+ <expavg_time>1554207601.702118</expavg_time>
+ <cpid>b49aaf35f6a00767361646d230c99d6d</cpid>
+ <teamid>35006</teamid>
+</user>
 1068766,17291.95,e3d98d40cf1630f201d1465823762cf9
 1068794,1920.97,916d08e7b2a8acd9319bf1baa310c224
-1068810,0.090442,968d0a04aa31fa9bbbff2eb6a87b02f2,35006
+<user>
+ <id>1068810</id>
+ <name>lichtsucher</name>
+ <country></country>
+ <create_time>1526914518</create_time>
+ <total_credit>50477.650560</total_credit>
+ <expavg_credit>0.090442</expavg_credit>
+ <expavg_time>1538526001.138829</expavg_time>
+ <cpid>968d0a04aa31fa9bbbff2eb6a87b02f2</cpid>
+ <teamid>35006</teamid>
+</user>
 1068815,1596.33,20e26fcb62b5c8649e267a794a83f6b1
 1068874,15348.24,4004052cb6700a0125e3af066ce405ae
 1068889,1441.36,3054c89415613c16bdd1143ebcc82a02
@@ -26871,7 +27751,17 @@ Content-Length: 3698268
 1069453,3219.6,4d3dcea8a76c5ef0ccebb7b6ea072701
 1069493,888.1,ddde0f79901888dfc0db840e34aff652
 1069518,403.88,b3d41c3a25251fe6de16fec8ac8682f7
-1069573,1874.527251,998d21205690546885a392c60ce55618,35006
+<user>
+ <id>1069573</id>
+ <name>pbrusky</name>
+ <country>UNITED STATES</country>
+ <create_time>1527962095</create_time>
+ <total_credit>829101.788530</total_credit>
+ <expavg_credit>1874.527251</expavg_credit>
+ <expavg_time>1593156189.298034</expavg_time>
+ <cpid>998d21205690546885a392c60ce55618</cpid>
+ <teamid>35006</teamid>
+</user>
 1069623,9363.52,bcea8b250d13b7d6b9677f72437051e6,30513
 1069689,777.43,a99349db98247cad618d1cdbeb95200c
 1069707,796.63,de79e10b35df1d455b3b6c17b7b93881
@@ -26904,13 +27794,43 @@ Content-Length: 3698268
 1071090,507.45,ff8d2a17dcc15fd6d2229b6809549f0b
 1071119,604.36,4cc57f16b67077292e2094889495133e
 1071200,2012.8,1865cf70e1855100bee24e9b46903ca1
-1071338,0.092725,3e0efa52c3b191445ec3350f8438dc89,35006
+<user>
+ <id>1071338</id>
+ <name>candelabrador</name>
+ <country></country>
+ <create_time>1531519867</create_time>
+ <total_credit>14497642.263557</total_credit>
+ <expavg_credit>0.092725</expavg_credit>
+ <expavg_time>1581790801.534343</expavg_time>
+ <cpid>3e0efa52c3b191445ec3350f8438dc89</cpid>
+ <teamid>35006</teamid>
+</user>
 1071342,3883.26,252934fc8cdb253510fa9448659278b3
-1071360,2033.906534,3f78732b8867b33a2b34197cab50f4f2,35006
+<user>
+ <id>1071360</id>
+ <name>bolobala</name>
+ <country>VIET NAM</country>
+ <create_time>1531559587</create_time>
+ <total_credit>2341890.476690</total_credit>
+ <expavg_credit>2033.906534</expavg_credit>
+ <expavg_time>1593165975.136744</expavg_time>
+ <cpid>3f78732b8867b33a2b34197cab50f4f2</cpid>
+ <teamid>35006</teamid>
+</user>
 1071372,17477.92,715e14b98373a4b36ce233110d8e0eb6
 1071384,1749.89,06c4f726c25413b262e4ec4114a98837,30513
 1071448,13375.52,64c02afacec113d34beed50c0860b6ab
-1071481,0.092093,265d57ea664dbb5005f2db7b73d343b9,35006
+<user>
+ <id>1071481</id>
+ <name>Byteball_8f422422</name>
+ <country>UNITED STATES</country>
+ <create_time>1531771319</create_time>
+ <total_credit>1569369.716525</total_credit>
+ <expavg_credit>0.092093</expavg_credit>
+ <expavg_time>1580538001.898852</expavg_time>
+ <cpid>265d57ea664dbb5005f2db7b73d343b9</cpid>
+ <teamid>35006</teamid>
+</user>
 1071592,8027.21,835d0b14d67b1f6edf6747eec1ff6b92,30513
 1071640,667.9,68732f015f46f43be82e83157cb79e61
 1071687,29353.82,d18435118656c5daa784b27380ac143f
@@ -26919,38 +27839,138 @@ Content-Length: 3698268
 1071737,1125.89,5c07d6eb8b53e4e0f66c3fc3a17e29b6
 1071916,887.37,fc818f32968fa00a73aa6451ab579da5
 1071965,305.47,70124fe130d70d4bd4d377e1da1ef659
-1072057,0.093269,6ca2b45fc157d021ac662e9933956400,35006
+<user>
+ <id>1072057</id>
+ <name>klappy</name>
+ <country>UNITED STATES</country>
+ <create_time>1532281974</create_time>
+ <total_credit>403853.501217</total_credit>
+ <expavg_credit>0.093269</expavg_credit>
+ <expavg_time>1563517201.878141</expavg_time>
+ <cpid>6ca2b45fc157d021ac662e9933956400</cpid>
+ <teamid>35006</teamid>
+</user>
 1072107,22492.59,2a81f586b9309dbc69ead7b293ca2da7
-1072196,0.090384,3a30a810058c64a1d833da2e3e84db4c,35006
+<user>
+ <id>1072196</id>
+ <name>Byteball_8d3a3490</name>
+ <country></country>
+ <create_time>1532449281</create_time>
+ <total_credit>2964425.844148</total_credit>
+ <expavg_credit>0.090384</expavg_credit>
+ <expavg_time>1591834801.990352</expavg_time>
+ <cpid>3a30a810058c64a1d833da2e3e84db4c</cpid>
+ <teamid>35006</teamid>
+</user>
 1072248,8076.94,ed2238fc74dc22017d4068d88ab256c2
 1072298,264.54,34325d4f52441dfa6d42c20d3a0c78f9
 1072340,2105.52,5577f854616504eba7eec40796396e3e
 1072383,2682.97,5ecedc16151d5f675bea940eaaf03601
-1072401,0.094249,b3ea521e700e89e4fbe0353088cf3f7b,35006
+<user>
+ <id>1072401</id>
+ <name>pcbbp</name>
+ <country></country>
+ <create_time>1532726400</create_time>
+ <total_credit>11178937.526799</total_credit>
+ <expavg_credit>0.094249</expavg_credit>
+ <expavg_time>1570818001.132613</expavg_time>
+ <cpid>b3ea521e700e89e4fbe0353088cf3f7b</cpid>
+ <teamid>35006</teamid>
+</user>
 1072409,892.65,ae2a2554370e966287f9ae84ee428666
 1072413,364.2,29165965d6a9ca198c66d96153b43693
-1072441,3941.488786,09f43d094002bb55e739ebe412dc6bd9,35006
+<user>
+ <id>1072441</id>
+ <name>AprilBBP</name>
+ <country></country>
+ <create_time>1532795726</create_time>
+ <total_credit>10627478.624069</total_credit>
+ <expavg_credit>3941.488786</expavg_credit>
+ <expavg_time>1593173022.995779</expavg_time>
+ <cpid>09f43d094002bb55e739ebe412dc6bd9</cpid>
+ <teamid>35006</teamid>
+</user>
 1072453,456.06,5d66f6216639d3f0390628a1a7873520
-1072472,0.088422,b9bc3010b6becd4eaea5c756b3fa1046,35006
+<user>
+ <id>1072472</id>
+ <name>Mario Plichta</name>
+ <country></country>
+ <create_time>1532856156</create_time>
+ <total_credit>2611469.244144</total_credit>
+ <expavg_credit>0.088422</expavg_credit>
+ <expavg_time>1564165201.435859</expavg_time>
+ <cpid>b9bc3010b6becd4eaea5c756b3fa1046</cpid>
+ <teamid>35006</teamid>
+</user>
 1072501,799.6,6962c6632e966a3542be54de901b1e9a
 1072538,13917.59,760061df131c9332c9b01a7f4820b7fe
 1072571,1279.2,56ce1d6d5a1c60764682e057279e223e
 1072587,1065.02,3bf9818f5bb7f200f4535ba3d6847beb
-1072688,0.099665,f1ab21ecbdb2a13e763aacd139fb88d1,35006
-1072773,36016.312256,168c62b82fb40fa3db0d34605439daa5,35006
-1072832,0.090783,7517487f5568941cb691fd36ff2224d1,35006
+<user>
+ <id>1072688</id>
+ <name>choenjevin</name>
+ <country>CANADA</country>
+ <create_time>1533137133</create_time>
+ <total_credit>38303.143225</total_credit>
+ <expavg_credit>0.099665</expavg_credit>
+ <expavg_time>1542824401.923672</expavg_time>
+ <cpid>f1ab21ecbdb2a13e763aacd139fb88d1</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1072773</id>
+ <name>oncoapop</name>
+ <country>CANADA</country>
+ <create_time>1533274493</create_time>
+ <total_credit>13482062.323227</total_credit>
+ <expavg_credit>36016.312256</expavg_credit>
+ <expavg_time>1593171992.947611</expavg_time>
+ <cpid>168c62b82fb40fa3db0d34605439daa5</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1072832</id>
+ <name>Byteball_01712709</name>
+ <country>CZECH REPUBLIC</country>
+ <create_time>1533417332</create_time>
+ <total_credit>30596318.371171</total_credit>
+ <expavg_credit>0.090783</expavg_credit>
+ <expavg_time>1565461202.002738</expavg_time>
+ <cpid>7517487f5568941cb691fd36ff2224d1</cpid>
+ <teamid>35006</teamid>
+</user>
 1072836,10000.11,8d010cc4463040766cde695a667530af
 1072848,954.07,01d0749b9d2eb407f9d23e6b751388fd
 1072870,455.08,997257ab8950626696699187981b1fc0,30513
 1072882,445.8,1a1ba17f10e7fb71b3ef78e411b59ebb
-1072904,0.098145,cc94a264bcf00ce5005e249018c0da0d,35006
+<user>
+ <id>1072904</id>
+ <name>eyedoctrader1</name>
+ <country>UNITED STATES</country>
+ <create_time>1533563646</create_time>
+ <total_credit>6795724.149187</total_credit>
+ <expavg_credit>0.098145</expavg_credit>
+ <expavg_time>1564165201.435859</expavg_time>
+ <cpid>cc94a264bcf00ce5005e249018c0da0d</cpid>
+ <teamid>35006</teamid>
+</user>
 1072945,3044.06,fc6ed5668b6087ed47335878030886c6
 1072953,413.64,d0c7aaa5c83afaa1f036d1d6eba42960
 1072955,2046.33,cf477046eadfc4d58c4090e6cb40af35
 1073015,2320.27,a7e07c39127596cfae99939d3d8da0ea,30513
 1073084,840.81,2c2e87405d668fa22c003898d3640d1f
 1073119,1485.59,51c34b98502e634864ca9ec3801995af
-1073153,3387.026142,93138f032bdd027fa3246b48bb715a77,35006
+<user>
+ <id>1073153</id>
+ <name>Byteball_3b162762</name>
+ <country>UNITED STATES</country>
+ <create_time>1534208914</create_time>
+ <total_credit>3692672.533687</total_credit>
+ <expavg_credit>3387.026142</expavg_credit>
+ <expavg_time>1593172548.528054</expavg_time>
+ <cpid>93138f032bdd027fa3246b48bb715a77</cpid>
+ <teamid>35006</teamid>
+</user>
 1073172,1418.1,5abfc8e5df4060c14d01d50d39b35081
 1073352,97803.58,7dafec98ef2c4fa69137cbeec23f4508
 1073354,279.22,b4994b29d386f024ff9505cab8f595f6
@@ -26963,99 +27983,599 @@ Content-Length: 3698268
 1073512,491.38,336ba91bbf6727105bcd17b22b2bed00
 1073539,1844.57,9cca232225569960d4de7fa884752c62
 1073542,16542.31,8e755d6d95e2ea03df85f0427798f135
-1073568,0.098255,ec6a396d1824b7383d8fe7e7d24d3683,35006
+<user>
+ <id>1073568</id>
+ <name>wildpitch808</name>
+ <country>UNITED STATES</country>
+ <create_time>1535043297</create_time>
+ <total_credit>70083.073749</total_credit>
+ <expavg_credit>0.098255</expavg_credit>
+ <expavg_time>1558635601.138489</expavg_time>
+ <cpid>ec6a396d1824b7383d8fe7e7d24d3683</cpid>
+ <teamid>35006</teamid>
+</user>
 1073586,268.73,18328cc6d204daa181e12d866e77e5cf
-1073636,0.094341,4f2b4ff4e76448b930c5c662c48e125e,35006
+<user>
+ <id>1073636</id>
+ <name>michaelle</name>
+ <country>POLAND</country>
+ <create_time>1535189037</create_time>
+ <total_credit>36712.898850</total_credit>
+ <expavg_credit>0.094341</expavg_credit>
+ <expavg_time>1545524401.169790</expavg_time>
+ <cpid>4f2b4ff4e76448b930c5c662c48e125e</cpid>
+ <teamid>35006</teamid>
+</user>
 1073686,1339.07,ffd76e57c816d63c3749fce2d5c7e8d6
 1073712,4006.26,7d1d9e2d7f8423a8044a401b7ffc46b5
 1073766,708.82,e06a7c3429542c63fae5660c707c7c33
-1073780,0.091240,7cd7c0e4e0535716b3a582b77d1fb5f3,35006
+<user>
+ <id>1073780</id>
+ <name>Byteball_7b002937</name>
+ <country>INDONESIA</country>
+ <create_time>1535452871</create_time>
+ <total_credit>101509.745505</total_credit>
+ <expavg_credit>0.091240</expavg_credit>
+ <expavg_time>1555179601.849898</expavg_time>
+ <cpid>7cd7c0e4e0535716b3a582b77d1fb5f3</cpid>
+ <teamid>35006</teamid>
+</user>
 1073794,24127.27,70202e6124890a8d4b81bdc1e1d90103
 1073807,575.18,f2a42c1bddd98a0e64da8746c5afd417,30513
 1073826,5141.94,ca9165a5164d476a11c7eb9269c2b42d
 1073850,855.41,5d1bdf6acbfe0285b990d722a15590cb
-1073892,0.096970,6d3cf73125be19efe95f073575990d70,35006
-1073893,0.099248,e9b28aad059affef2b715a51192e759f,35006
-1073912,0.096588,31571094b3b2491b10f68a2aefdabc4d,35006
-1073950,251296.398969,e5c54bef47fdb272ecdb93c1d1f3a640,35006
-1073951,0.096002,4a1c27ded7fc4cb19cab9eef700a4bde,35006
-1074001,252041.594924,8aee6972dd6958234c4d813978e2ee20,35006
-1074003,0.089922,e5d292949eefde1cb4f73de659bd24b1,35006
-1074012,0.099008,c80b8655c52746ae825b7a3bb947951c,35006
-1074014,0.099871,373e215c0c0d3df1908ebf607a966cb8,35006
-1074015,0.097715,e37d18242f0467a0694bb4fe98a7377c,35006
-1074016,0.090418,bdaea08ab3f1971aacb9ba4bc2171953,35006
-1074017,0.090305,15a19c7d1e9ce2935d49f11cce7941dd,35006
-1074018,0.091443,1df2bd274f38f6e1956445a928180443,35006
-1074019,0.094989,6439dafb616505066412747354058ffa,35006
+<user>
+ <id>1073892</id>
+ <name>Byteball_ba703076</name>
+ <country></country>
+ <create_time>1535626388</create_time>
+ <total_credit>5788.308480</total_credit>
+ <expavg_credit>0.096970</expavg_credit>
+ <expavg_time>1544120401.636416</expavg_time>
+ <cpid>6d3cf73125be19efe95f073575990d70</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1073893</id>
+ <name>Byteball_93513011</name>
+ <country></country>
+ <create_time>1535627565</create_time>
+ <total_credit>55999.463438</total_credit>
+ <expavg_credit>0.099248</expavg_credit>
+ <expavg_time>1545740401.998965</expavg_time>
+ <cpid>e9b28aad059affef2b715a51192e759f</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1073912</id>
+ <name>Mashfiqun</name>
+ <country>BANGLADESH</country>
+ <create_time>1535656698</create_time>
+ <total_credit>956.076438</total_credit>
+ <expavg_credit>0.096588</expavg_credit>
+ <expavg_time>1542716401.577137</expavg_time>
+ <cpid>31571094b3b2491b10f68a2aefdabc4d</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1073950</id>
+ <name>Obyte_efa12998</name>
+ <country></country>
+ <create_time>1535732434</create_time>
+ <total_credit>27071319.169622</total_credit>
+ <expavg_credit>251296.398969</expavg_credit>
+ <expavg_time>1593173737.316048</expavg_time>
+ <cpid>e5c54bef47fdb272ecdb93c1d1f3a640</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1073951</id>
+ <name>heavenzmovie</name>
+ <country></country>
+ <create_time>1535734480</create_time>
+ <total_credit>23878.526359</total_credit>
+ <expavg_credit>0.096002</expavg_credit>
+ <expavg_time>1559132401.543712</expavg_time>
+ <cpid>4a1c27ded7fc4cb19cab9eef700a4bde</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1074001</id>
+ <name>Obyte_d9433009</name>
+ <country></country>
+ <create_time>1535860934</create_time>
+ <total_credit>41032255.191222</total_credit>
+ <expavg_credit>252041.594924</expavg_credit>
+ <expavg_time>1593173758.935493</expavg_time>
+ <cpid>8aee6972dd6958234c4d813978e2ee20</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1074003</id>
+ <name>Byteball_13573079</name>
+ <country></country>
+ <create_time>1535864505</create_time>
+ <total_credit>47494.593342</total_credit>
+ <expavg_credit>0.089922</expavg_credit>
+ <expavg_time>1545740401.998965</expavg_time>
+ <cpid>e5d292949eefde1cb4f73de659bd24b1</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1074012</id>
+ <name>komzik</name>
+ <country>CZECH REPUBLIC</country>
+ <create_time>1535880079</create_time>
+ <total_credit>368.890214</total_credit>
+ <expavg_credit>0.099008</expavg_credit>
+ <expavg_time>1542284401.493695</expavg_time>
+ <cpid>c80b8655c52746ae825b7a3bb947951c</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1074014</id>
+ <name>Byteball_216c3072</name>
+ <country></country>
+ <create_time>1535881436</create_time>
+ <total_credit>4612.606204</total_credit>
+ <expavg_credit>0.099871</expavg_credit>
+ <expavg_time>1543796401.914115</expavg_time>
+ <cpid>373e215c0c0d3df1908ebf607a966cb8</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1074015</id>
+ <name>Byteball_448d3073</name>
+ <country></country>
+ <create_time>1535882604</create_time>
+ <total_credit>38536.670890</total_credit>
+ <expavg_credit>0.097715</expavg_credit>
+ <expavg_time>1545632401.138175</expavg_time>
+ <cpid>e37d18242f0467a0694bb4fe98a7377c</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1074016</id>
+ <name>Byteball_161f3074</name>
+ <country></country>
+ <create_time>1535882979</create_time>
+ <total_credit>5021.554487</total_credit>
+ <expavg_credit>0.090418</expavg_credit>
+ <expavg_time>1544120401.636416</expavg_time>
+ <cpid>bdaea08ab3f1971aacb9ba4bc2171953</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1074017</id>
+ <name>Byteball_ca263075</name>
+ <country></country>
+ <create_time>1535884185</create_time>
+ <total_credit>3866.448035</total_credit>
+ <expavg_credit>0.090305</expavg_credit>
+ <expavg_time>1543904401.961361</expavg_time>
+ <cpid>15a19c7d1e9ce2935d49f11cce7941dd</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1074018</id>
+ <name>Byteball_3bf13078</name>
+ <country></country>
+ <create_time>1535884475</create_time>
+ <total_credit>8361.438649</total_credit>
+ <expavg_credit>0.091443</expavg_credit>
+ <expavg_time>1544768402.000252</expavg_time>
+ <cpid>1df2bd274f38f6e1956445a928180443</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1074019</id>
+ <name>Byteball_09a43077</name>
+ <country></country>
+ <create_time>1535884962</create_time>
+ <total_credit>4681.141895</total_credit>
+ <expavg_credit>0.094989</expavg_credit>
+ <expavg_time>1544228401.900480</expavg_time>
+ <cpid>6439dafb616505066412747354058ffa</cpid>
+ <teamid>35006</teamid>
+</user>
 1074034,1761.71,f9363feee5af45fd681268479739ddb9
 1074047,748.25,776a262c670d51745b82f1f01eea7f92
-1074056,0.096453,96011849c29b808249b92e2a467374af,35006
+<user>
+ <id>1074056</id>
+ <name>kokotina</name>
+ <country>ANTARCTICA</country>
+ <create_time>1535956636</create_time>
+ <total_credit>338195.165587</total_credit>
+ <expavg_credit>0.096453</expavg_credit>
+ <expavg_time>1563301201.710581</expavg_time>
+ <cpid>96011849c29b808249b92e2a467374af</cpid>
+ <teamid>35006</teamid>
+</user>
 1074095,3207.96,11093c304b5ffbffca17d28ec230f3e6
 1074122,925.98,37b0f32862b129a0970bf68df1d59949
 1074147,1997.31,e044c215231dc9ebc30b8bc2e6a9863c
-1074187,504.601058,71ab02bc9802055cff99a9cc03f5562e,35006
-1074245,0.097363,b78519380017632c4abb2a430b2ba86b,35006
-1074260,0.088895,99a89f6fe8cc73a291b784f9ba817627,35006
-1074367,0.098592,ad570174e4a36d2fa9bc95b4e2ba6538,35006
+<user>
+ <id>1074187</id>
+ <name>Byteball_48f23054</name>
+ <country>FRANCE</country>
+ <create_time>1536225339</create_time>
+ <total_credit>1986208.267960</total_credit>
+ <expavg_credit>504.601058</expavg_credit>
+ <expavg_time>1593166254.420050</expavg_time>
+ <cpid>71ab02bc9802055cff99a9cc03f5562e</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1074245</id>
+ <name>janasakotel</name>
+ <country></country>
+ <create_time>1536365808</create_time>
+ <total_credit>19091.076890</total_credit>
+ <expavg_credit>0.097363</expavg_credit>
+ <expavg_time>1545373201.882432</expavg_time>
+ <cpid>b78519380017632c4abb2a430b2ba86b</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1074260</id>
+ <name>Byteball_d7d03085</name>
+ <country></country>
+ <create_time>1536409701</create_time>
+ <total_credit>3080851.953833</total_credit>
+ <expavg_credit>0.088895</expavg_credit>
+ <expavg_time>1566822001.650779</expavg_time>
+ <cpid>99a89f6fe8cc73a291b784f9ba817627</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1074367</id>
+ <name>compassion4orphans</name>
+ <country>CANADA</country>
+ <create_time>1536647882</create_time>
+ <total_credit>8482191.039068</total_credit>
+ <expavg_credit>0.098592</expavg_credit>
+ <expavg_time>1565893201.378091</expavg_time>
+ <cpid>ad570174e4a36d2fa9bc95b4e2ba6538</cpid>
+ <teamid>35006</teamid>
+</user>
 1074496,683.53,0e4511f9d256a36c674903dd532b2826
 1074515,3134.09,de3fe9fd56d7f91c104b59fa64142e19
 1074535,700.85,ef7a684859eb2c4b3ea20eba9a549548
 1074569,509.22,6ca1aa8bd42830e51086ff846ae2882a
-1074583,878.998142,55e6a9b6f37b1c1324433e8406717c49,35006
+<user>
+ <id>1074583</id>
+ <name>MrCoin</name>
+ <country>GERMANY</country>
+ <create_time>1537038679</create_time>
+ <total_credit>3443460.334686</total_credit>
+ <expavg_credit>878.998142</expavg_credit>
+ <expavg_time>1593163568.268513</expavg_time>
+ <cpid>55e6a9b6f37b1c1324433e8406717c49</cpid>
+ <teamid>35006</teamid>
+</user>
 1074642,1803.51,cd9ed8776e9efb65c490cf2bcd299bce
 1074686,3282.97,e5055d134546444bf1aa59fcc5e1a3f6
-1074703,0.098236,f5a95283b28c29bd478f7a6d4c38006d,35006
+<user>
+ <id>1074703</id>
+ <name>DRGT</name>
+ <country>UNITED KINGDOM</country>
+ <create_time>1537259983</create_time>
+ <total_credit>26244.317316</total_credit>
+ <expavg_credit>0.098236</expavg_credit>
+ <expavg_time>1556367601.229191</expavg_time>
+ <cpid>f5a95283b28c29bd478f7a6d4c38006d</cpid>
+ <teamid>35006</teamid>
+</user>
 1074716,670.6,1972b7cf6716346553c7d9feddf32d0f
-1074721,0.090524,f725b0a16f0bbc33ed4d5259ccd9cb9b,35006
+<user>
+ <id>1074721</id>
+ <name>Byteball_99753140</name>
+ <country></country>
+ <create_time>1537305207</create_time>
+ <total_credit>6032016.004220</total_credit>
+ <expavg_credit>0.090524</expavg_credit>
+ <expavg_time>1564057201.621874</expavg_time>
+ <cpid>f725b0a16f0bbc33ed4d5259ccd9cb9b</cpid>
+ <teamid>35006</teamid>
+</user>
 1074725,56073.39,5f7445c7feb3853afe3d90a5e46d0d40,30513
 1074733,1955.34,4d9a404f3259d1d3bfbb6dffaba117eb
-1074754,0.093240,51360778f39640e74c76a5ce8433642f,35006
+<user>
+ <id>1074754</id>
+ <name>absilon</name>
+ <country>UNITED STATES</country>
+ <create_time>1537365084</create_time>
+ <total_credit>2118610.775742</total_credit>
+ <expavg_credit>0.093240</expavg_credit>
+ <expavg_time>1569262801.114046</expavg_time>
+ <cpid>51360778f39640e74c76a5ce8433642f</cpid>
+ <teamid>35006</teamid>
+</user>
 1074764,346.79,444ad2d89cacb31d5a3b84c92b6e255c
 1074766,1179.83,9a67c2f2aacf2267e9044226fcd7b32a
-1074767,0.089453,a66420d90d7e400bf3dd724a607b7ceb,35006
-1074779,908.759840,ae76fb584428c3dd6a252bc4509d33e3,35006
-1074794,0.098388,f9a295d5a7084e99e3acc9da5b656695,35006
+<user>
+ <id>1074767</id>
+ <name>tronathon</name>
+ <country></country>
+ <create_time>1537381620</create_time>
+ <total_credit>854055.621896</total_credit>
+ <expavg_credit>0.089453</expavg_credit>
+ <expavg_time>1561897201.075012</expavg_time>
+ <cpid>a66420d90d7e400bf3dd724a607b7ceb</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1074779</id>
+ <name>Byteball_87fd3143</name>
+ <country></country>
+ <create_time>1537416630</create_time>
+ <total_credit>2839485.065281</total_credit>
+ <expavg_credit>908.759840</expavg_credit>
+ <expavg_time>1593173448.997440</expavg_time>
+ <cpid>ae76fb584428c3dd6a252bc4509d33e3</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1074794</id>
+ <name>cdanilo</name>
+ <country>SERBIA AND MONTENEGRO</country>
+ <create_time>1537439701</create_time>
+ <total_credit>9454963.157649</total_credit>
+ <expavg_credit>0.098388</expavg_credit>
+ <expavg_time>1564921201.465342</expavg_time>
+ <cpid>f9a295d5a7084e99e3acc9da5b656695</cpid>
+ <teamid>35006</teamid>
+</user>
 1074806,368.33,692e7f084ad6bcfafa3a49c776f62ad0
-1074818,0.092283,3b1f264785a37e2ae76fbc6d741da83e,35006
-1074825,0.092029,62bc04999dfba69e6872abf5a903c482,35006
+<user>
+ <id>1074818</id>
+ <name>lozgreen</name>
+ <country></country>
+ <create_time>1537460530</create_time>
+ <total_credit>3468.169933</total_credit>
+ <expavg_credit>0.092283</expavg_credit>
+ <expavg_time>1544984401.861173</expavg_time>
+ <cpid>3b1f264785a37e2ae76fbc6d741da83e</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1074825</id>
+ <name>nsummy</name>
+ <country>UNITED STATES</country>
+ <create_time>1537473718</create_time>
+ <total_credit>488784.096633</total_credit>
+ <expavg_credit>0.092029</expavg_credit>
+ <expavg_time>1561897201.075012</expavg_time>
+ <cpid>62bc04999dfba69e6872abf5a903c482</cpid>
+ <teamid>35006</teamid>
+</user>
 1074864,600.96,bce33bac0e67578a105fb1278221a821
 1074874,10234.65,5ba01326d5bf2fe0984f6bf52fb6e055
-1074882,0.099069,629d2c9bbf437610b4ae763315f53b0f,35006
+<user>
+ <id>1074882</id>
+ <name>eL_vErDe</name>
+ <country></country>
+ <create_time>1537612357</create_time>
+ <total_credit>13552.226847</total_credit>
+ <expavg_credit>0.099069</expavg_credit>
+ <expavg_time>1546539601.279748</expavg_time>
+ <cpid>629d2c9bbf437610b4ae763315f53b0f</cpid>
+ <teamid>35006</teamid>
+</user>
 1074885,2950.88,757dcd141ca7ab6fbccc66800e756738
-1074890,0.090906,a09f398ea4142dbe1ae646c5833c1d95,35006
+<user>
+ <id>1074890</id>
+ <name>octonumber</name>
+ <country>RUSSIAN FEDERATION</country>
+ <create_time>1537618643</create_time>
+ <total_credit>845.976601</total_credit>
+ <expavg_credit>0.090906</expavg_credit>
+ <expavg_time>1546431601.390839</expavg_time>
+ <cpid>a09f398ea4142dbe1ae646c5833c1d95</cpid>
+ <teamid>35006</teamid>
+</user>
 1074892,559.75,dc74c5fd790b2cf91e67a50fd1f68774
 1074894,454.41,9da46a66ecf36ac8d59fb931890f11f6
-1074920,0.090660,6f977af3db0b8ca4ec10ab43b08e9aa6,35006
+<user>
+ <id>1074920</id>
+ <name>Byteball_70013164</name>
+ <country></country>
+ <create_time>1537694511</create_time>
+ <total_credit>15392354.472304</total_credit>
+ <expavg_credit>0.090660</expavg_credit>
+ <expavg_time>1564381201.229562</expavg_time>
+ <cpid>6f977af3db0b8ca4ec10ab43b08e9aa6</cpid>
+ <teamid>35006</teamid>
+</user>
 1074923,676.48,d2f7d51476cf4120ce6f07413d3298fc
-1074960,0.093916,8207d91142045cb6d7a81b8e91d264a8,35006
+<user>
+ <id>1074960</id>
+ <name>totikk</name>
+ <country></country>
+ <create_time>1537766041</create_time>
+ <total_credit>3296620.384270</total_credit>
+ <expavg_credit>0.093916</expavg_credit>
+ <expavg_time>1559391601.294434</expavg_time>
+ <cpid>8207d91142045cb6d7a81b8e91d264a8</cpid>
+ <teamid>35006</teamid>
+</user>
 1074996,280.12,4c46409d8eb5bac21784e616467c7a88
-1075025,0.094595,0b0d7691cfc34a4786cf3121f2882761,35006
-1075026,173.415361,d72a72532a9b4bc3fc1058810294ba39,35006
-1075042,5.944630,aa7150e6b44fb3ff79b66ff2ee2dabbe,35006
+<user>
+ <id>1075025</id>
+ <name>Fenton</name>
+ <country>FRANCE</country>
+ <create_time>1537868537</create_time>
+ <total_credit>4298504.610883</total_credit>
+ <expavg_credit>0.094595</expavg_credit>
+ <expavg_time>1563841201.684654</expavg_time>
+ <cpid>0b0d7691cfc34a4786cf3121f2882761</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1075026</id>
+ <name>Byteball_e3dd3202</name>
+ <country>KYRGYZSTAN</country>
+ <create_time>1537868877</create_time>
+ <total_credit>60887659.209426</total_credit>
+ <expavg_credit>173.415361</expavg_credit>
+ <expavg_time>1593173565.836265</expavg_time>
+ <cpid>d72a72532a9b4bc3fc1058810294ba39</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1075042</id>
+ <name>Byteball_bb473336</name>
+ <country></country>
+ <create_time>1537906472</create_time>
+ <total_credit>2608087.128285</total_credit>
+ <expavg_credit>5.944630</expavg_credit>
+ <expavg_time>1593066001.853288</expavg_time>
+ <cpid>aa7150e6b44fb3ff79b66ff2ee2dabbe</cpid>
+ <teamid>35006</teamid>
+</user>
 1075076,6957.34,38920709b30c6cfa6fc42cef4dacaf2f
 1075108,8437.31,71cdd70cfdf0d8da7ab54bff2ac6e95a
 1075116,588.17,c4027e56e58f874ec8ae2576b05068ff
-1075137,0.097318,8f685f713ff3a7fab508e60c936f4d58,35006
-1075177,8569.972630,9da192495285adf04dfeda65bdfc8a63,35006
+<user>
+ <id>1075137</id>
+ <name>gtt42</name>
+ <country></country>
+ <create_time>1538068885</create_time>
+ <total_credit>134578.901195</total_credit>
+ <expavg_credit>0.097318</expavg_credit>
+ <expavg_time>1552587601.264639</expavg_time>
+ <cpid>8f685f713ff3a7fab508e60c936f4d58</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1075177</id>
+ <name>mravac</name>
+ <country></country>
+ <create_time>1538121656</create_time>
+ <total_credit>3259163.709009</total_credit>
+ <expavg_credit>8569.972630</expavg_credit>
+ <expavg_time>1593173696.904466</expavg_time>
+ <cpid>9da192495285adf04dfeda65bdfc8a63</cpid>
+ <teamid>35006</teamid>
+</user>
 1075337,805.73,be6c8369b9a99659386349dbaf55fba1
-1075385,0.373619,53f970f58dcd3c5a63f2c7ad9780a315,35006
-1075414,0.098259,bbfb9ada448fc3aa1754fd392eb7eb4f,35006
+<user>
+ <id>1075385</id>
+ <name>adieslate</name>
+ <country>UNITED KINGDOM</country>
+ <create_time>1538463770</create_time>
+ <total_credit>42855.304794</total_credit>
+ <expavg_credit>0.373619</expavg_credit>
+ <expavg_time>1593066001.853288</expavg_time>
+ <cpid>53f970f58dcd3c5a63f2c7ad9780a315</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1075414</id>
+ <name>Byteball_f6973260</name>
+ <country></country>
+ <create_time>1538507199</create_time>
+ <total_credit>2309297.733680</total_credit>
+ <expavg_credit>0.098259</expavg_credit>
+ <expavg_time>1555071601.204395</expavg_time>
+ <cpid>bbfb9ada448fc3aa1754fd392eb7eb4f</cpid>
+ <teamid>35006</teamid>
+</user>
 1075439,9884.74,9da02cfaf114f952b786f34531e5806f
 1075442,6813.14,d7ac975797026551dfb81cda1d754a58
 1075473,12104.89,38357742e5498b8ad1925dcb5fe1fc91
-1075562,19545.720782,f80a24c0aaee2c029f01e403d419b70e,35006
+<user>
+ <id>1075562</id>
+ <name>sunborn</name>
+ <country>NORWAY</country>
+ <create_time>1538773634</create_time>
+ <total_credit>5279748.753352</total_credit>
+ <expavg_credit>19545.720782</expavg_credit>
+ <expavg_time>1593171959.298696</expavg_time>
+ <cpid>f80a24c0aaee2c029f01e403d419b70e</cpid>
+ <teamid>35006</teamid>
+</user>
 1075586,483.8,86c005049bc485206bac5a076b681580
-1075630,0.091712,4da6bce2d4a09c78c76e8424f5a0503d,35006
+<user>
+ <id>1075630</id>
+ <name>loskitron</name>
+ <country></country>
+ <create_time>1538905937</create_time>
+ <total_credit>151184.942591</total_credit>
+ <expavg_credit>0.091712</expavg_credit>
+ <expavg_time>1555503601.783917</expavg_time>
+ <cpid>4da6bce2d4a09c78c76e8424f5a0503d</cpid>
+ <teamid>35006</teamid>
+</user>
 1075634,21269.07,3eea66c0beffe097fe0b23c15f805e12
-1075697,0.094161,62d4095b8c6fe4e5e3cd8d2758f3a839,35006
+<user>
+ <id>1075697</id>
+ <name>Ragnarson</name>
+ <country></country>
+ <create_time>1538995935</create_time>
+ <total_credit>70872.127957</total_credit>
+ <expavg_credit>0.094161</expavg_credit>
+ <expavg_time>1561465201.389576</expavg_time>
+ <cpid>62d4095b8c6fe4e5e3cd8d2758f3a839</cpid>
+ <teamid>35006</teamid>
+</user>
 1075748,378.5,3983e47eb81e21dc13fc65c3548153d0,30513
-1075777,0.093857,c1d9ff07aa953620932c414e37c85773,35006
-1075817,29707.429765,4e6f5bd80ac1fba074b8843b598b6706,35006
-1075883,0.096257,595c2498131bf2e272bb7fd88080ad3c,35006
+<user>
+ <id>1075777</id>
+ <name>mattoo84</name>
+ <country>SLOVAKIA</country>
+ <create_time>1539070388</create_time>
+ <total_credit>15109.620756</total_credit>
+ <expavg_credit>0.093857</expavg_credit>
+ <expavg_time>1548289201.569882</expavg_time>
+ <cpid>c1d9ff07aa953620932c414e37c85773</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1075817</id>
+ <name>DeckardLain</name>
+ <country>UNITED STATES</country>
+ <create_time>1539109433</create_time>
+ <total_credit>9580705.705577</total_credit>
+ <expavg_credit>29707.429765</expavg_credit>
+ <expavg_time>1593173662.253928</expavg_time>
+ <cpid>4e6f5bd80ac1fba074b8843b598b6706</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1075883</id>
+ <name>matt31751</name>
+ <country></country>
+ <create_time>1539197572</create_time>
+ <total_credit>23122.071335</total_credit>
+ <expavg_credit>0.096257</expavg_credit>
+ <expavg_time>1555503601.783917</expavg_time>
+ <cpid>595c2498131bf2e272bb7fd88080ad3c</cpid>
+ <teamid>35006</teamid>
+</user>
 1075884,3466.94,7ad3ffee36b9ecac4a1c420e2f9320ce
-1075893,12.780628,10f94e120369b1cb0a6b98234559be4d,35006
-1075904,0.089681,b2bceec59077a3be398b8d55332b302c,35006
+<user>
+ <id>1075893</id>
+ <name>murof</name>
+ <country></country>
+ <create_time>1539212872</create_time>
+ <total_credit>282958.221150</total_credit>
+ <expavg_credit>12.780628</expavg_credit>
+ <expavg_time>1593087601.950996</expavg_time>
+ <cpid>10f94e120369b1cb0a6b98234559be4d</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1075904</id>
+ <name>bonuxs</name>
+ <country>LATVIA</country>
+ <create_time>1539243233</create_time>
+ <total_credit>1246150.439062</total_credit>
+ <expavg_credit>0.089681</expavg_credit>
+ <expavg_time>1568722801.509051</expavg_time>
+ <cpid>b2bceec59077a3be398b8d55332b302c</cpid>
+ <teamid>35006</teamid>
+</user>
 1075911,1746.37,b212cdcc5e6da7c90fff72e1a10f5dd4
 1075940,262.1,607d72626bb44127d6ed5625e125312a
 1075960,7424.15,86fa0b9e926c6ee419d70bf80f1faea9,30513
@@ -27066,18 +28586,58 @@ Content-Length: 3698268
 1076038,6673.62,f063eb669423b9f73e69e48dc6908801
 1076059,11678.59,4377fc7a1dc44608b023eb106411c194
 1076076,534.82,afcb497b1f62defeb8b7f3ec204f4f0b
-1076083,0.089862,29119a8b5b6b5263e861df13e2cd89b4,35006
+<user>
+ <id>1076083</id>
+ <name>ynabe92</name>
+ <country></country>
+ <create_time>1539593811</create_time>
+ <total_credit>74603.891536</total_credit>
+ <expavg_credit>0.089862</expavg_credit>
+ <expavg_time>1553343601.202100</expavg_time>
+ <cpid>29119a8b5b6b5263e861df13e2cd89b4</cpid>
+ <teamid>35006</teamid>
+</user>
 1076093,2975.49,f046e559e371e591cce6b5c7a62faa0a
-1076131,0.096512,99149e6619e169bd58754378e920ff96,35006
+<user>
+ <id>1076131</id>
+ <name>Kayax</name>
+ <country></country>
+ <create_time>1539638703</create_time>
+ <total_credit>2856384.905595</total_credit>
+ <expavg_credit>0.096512</expavg_credit>
+ <expavg_time>1573777201.186960</expavg_time>
+ <cpid>99149e6619e169bd58754378e920ff96</cpid>
+ <teamid>35006</teamid>
+</user>
 1076162,844.07,af5d8e3cf1f58f036fc30b86bd92534c
 1076170,900.81,9739ac0ecfabc91e15e31b0e7e41f865
 1076192,4738.41,3396207c2c914444c9780db7a54e1b5a
 1076268,1907.7,d16f895c46997dd3c6df87b48d2ea54b
 1076284,657.31,962ae63f12772c8c16d820dcbcd1072a
-1076339,0.097712,992a06b4fdfde986a0987d772829bb8c,35006
+<user>
+ <id>1076339</id>
+ <name>Byteball_d38a3381</name>
+ <country></country>
+ <create_time>1539963883</create_time>
+ <total_credit>18661657.521134</total_credit>
+ <expavg_credit>0.097712</expavg_credit>
+ <expavg_time>1563733201.924981</expavg_time>
+ <cpid>992a06b4fdfde986a0987d772829bb8c</cpid>
+ <teamid>35006</teamid>
+</user>
 1076386,780.21,883b4f2999da9bfc6d879fb83644eba3
 1076407,2714.7,67570ea189bce34a270f1c426f46a429
-1076414,0.096445,24ff25bc91b41aadf00c7e39ff57fb0d,35006
+<user>
+ <id>1076414</id>
+ <name>Byteball_b44c3390</name>
+ <country>KYRGYZSTAN</country>
+ <create_time>1540140685</create_time>
+ <total_credit>894523.423306</total_credit>
+ <expavg_credit>0.096445</expavg_credit>
+ <expavg_time>1565893201.378091</expavg_time>
+ <cpid>24ff25bc91b41aadf00c7e39ff57fb0d</cpid>
+ <teamid>35006</teamid>
+</user>
 1076435,1047.06,fd00201d0a442b015bed64606a25c7bd
 1076457,16885.86,71fe3c194f19575d3268144d22dbb57d
 1076522,1932.72,f15c4b78b962cff181d1cd9e74743142
@@ -27101,7 +28661,17 @@ Content-Length: 3698268
 1077197,14342.74,6950c83e25137e26815b5d08a9d8e4f2
 1077201,10779.23,c70d1d0ed2a971f4518d40cdcac791fc
 1077260,16372.13,a926dfa9c40417a28d4e2df7dd93728f
-1077338,0.093643,438a8c98c49b3c6851af71e66caf0ca2,35006
+<user>
+ <id>1077338</id>
+ <name>Byteball_7b533496</name>
+ <country>GERMANY</country>
+ <create_time>1541762202</create_time>
+ <total_credit>2649529.607926</total_credit>
+ <expavg_credit>0.093643</expavg_credit>
+ <expavg_time>1580235601.513314</expavg_time>
+ <cpid>438a8c98c49b3c6851af71e66caf0ca2</cpid>
+ <teamid>35006</teamid>
+</user>
 1077348,18169.68,4ee5bdf17acbc21109a44cbb8658ee3c
 1077373,384.69,4c46ff9cf3ca3552fd29adc12e81bb30
 1077443,287.47,8f1e63ea2abe0f6effca3e5da8ea6ced
@@ -27116,54 +28686,224 @@ Content-Length: 3698268
 1077673,5843.7,e55643db8c0cdc56fdb94d66b9834c1a
 1077681,2892.6,d261e8ee19d9f64f5016364f861f3b2f
 1077689,12610.77,e0a62b0eb87de62d375b0dc2678d9385
-1077796,0.088694,db3d2e1fffdc065fbf6e5bccd6e187b1,35006
+<user>
+ <id>1077796</id>
+ <name>Byteball_202a3585</name>
+ <country></country>
+ <create_time>1542388462</create_time>
+ <total_credit>8044911.258086</total_credit>
+ <expavg_credit>0.088694</expavg_credit>
+ <expavg_time>1564381201.229562</expavg_time>
+ <cpid>db3d2e1fffdc065fbf6e5bccd6e187b1</cpid>
+ <teamid>35006</teamid>
+</user>
 1077833,1213.93,4ca3d874fdfe60499eb3e8cec378615d
 1078234,16363.89,c4a60f319e48a3cdae645c0b8a6d3f57
 1078257,2519.4,d2b49f8b2b99ddf6716a9942d598496d
 1078262,1035.54,4931159062d7d7bbf79701afae2799e6
-1078362,0.099772,defc42779be446ab795899e23bacb760,35006
+<user>
+ <id>1078362</id>
+ <name>13438681114</name>
+ <country>CHINA</country>
+ <create_time>1542550212</create_time>
+ <total_credit>467.094594</total_credit>
+ <expavg_credit>0.099772</expavg_credit>
+ <expavg_time>1549045201.751170</expavg_time>
+ <cpid>defc42779be446ab795899e23bacb760</cpid>
+ <teamid>35006</teamid>
+</user>
 1078391,2589.88,c6d5515686da86357bb4570a0e78f352
 1078400,786.12,9c89823867795c170408d4b5d630de2f
 1078421,4277.16,4ee9ee13a8ee2b19fa20b64d7b53356f
 1078422,2775.03,dd7b5ff7d996ba36d67f564aef6bd26e
-1078532,0.096064,6e2b7370bcd4601441f1871a18b2f579,35006
+<user>
+ <id>1078532</id>
+ <name>WasabiLove</name>
+ <country></country>
+ <create_time>1542678278</create_time>
+ <total_credit>50841782.602767</total_credit>
+ <expavg_credit>0.096064</expavg_credit>
+ <expavg_time>1564057201.621874</expavg_time>
+ <cpid>6e2b7370bcd4601441f1871a18b2f579</cpid>
+ <teamid>35006</teamid>
+</user>
 1078564,11262.28,50264519531ee1df52fd2c0a4bd76216,30513
 1078573,694.35,f72bada1ef793480d77dbe413468f880
 1078588,22073.28,d3a0de1d8369b9cecd3bea646cff4c23
-1078608,0.098740,f3781c04af0d1ea76062a6041c775546,35006
-1078613,0.091487,7661e85524103c098003c920e460fd80,35006
+<user>
+ <id>1078608</id>
+ <name>Byteball_5c733623</name>
+ <country></country>
+ <create_time>1542729142</create_time>
+ <total_credit>390.260029</total_credit>
+ <expavg_credit>0.098740</expavg_credit>
+ <expavg_time>1549585201.506321</expavg_time>
+ <cpid>f3781c04af0d1ea76062a6041c775546</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1078613</id>
+ <name>Byteball_430e3624</name>
+ <country></country>
+ <create_time>1542732201</create_time>
+ <total_credit>622432.648607</total_credit>
+ <expavg_credit>0.091487</expavg_credit>
+ <expavg_time>1578766801.057985</expavg_time>
+ <cpid>7661e85524103c098003c920e460fd80</cpid>
+ <teamid>35006</teamid>
+</user>
 1078635,6183.08,dbc1476c3203ff5b88e90b9bd6e2bea3,30513
 1078660,1156.87,9da6645faba155b73488dc84669b049c
-1078685,0.094212,98ae76096c897e844bbfd0f2b4aa207c,35006
-1078706,0.088632,99e7077d18e80d1bf94a7dd911f871db,35006
+<user>
+ <id>1078685</id>
+ <name>Astarte</name>
+ <country></country>
+ <create_time>1542797347</create_time>
+ <total_credit>1780904.971282</total_credit>
+ <expavg_credit>0.094212</expavg_credit>
+ <expavg_time>1565245201.131272</expavg_time>
+ <cpid>98ae76096c897e844bbfd0f2b4aa207c</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1078706</id>
+ <name>catcrunch</name>
+ <country></country>
+ <create_time>1542812079</create_time>
+ <total_credit>3525760.052587</total_credit>
+ <expavg_credit>0.088632</expavg_credit>
+ <expavg_time>1571682001.253872</expavg_time>
+ <cpid>99e7077d18e80d1bf94a7dd911f871db</cpid>
+ <teamid>35006</teamid>
+</user>
 1078729,1536.53,af37ca9d8411c8154414679938c646b5
-1078779,0.099959,5e776b7fdd71130081ef7ec8796ffeab,35006
+<user>
+ <id>1078779</id>
+ <name>Byteball_b7683638</name>
+ <country></country>
+ <create_time>1542913165</create_time>
+ <total_credit>5509953.803703</total_credit>
+ <expavg_credit>0.099959</expavg_credit>
+ <expavg_time>1564921201.465342</expavg_time>
+ <cpid>5e776b7fdd71130081ef7ec8796ffeab</cpid>
+ <teamid>35006</teamid>
+</user>
 1078792,744.77,e9e307826dbfb00a59eb52f2d30abddf
 1078818,26354.44,0488deb502bf20329a29828c94c14b9c
 1078831,1012.69,035f9e83100e8e9a06b0ad24f00c675d
 1078834,2082.72,1faaa45431a82513ac03f6dc05116199
 1078885,3526.32,c7bb31fd911380c721b2483ba193cece
-1078914,0.089437,69e9ffe8c747b24d6cfe2afa05684612,35006
-1078970,0.096017,794d32aa1489dea26cc4eb0600c89781,35006
+<user>
+ <id>1078914</id>
+ <name>capiatko</name>
+ <country>SLOVAKIA</country>
+ <create_time>1543110456</create_time>
+ <total_credit>19670880.847154</total_credit>
+ <expavg_credit>0.089437</expavg_credit>
+ <expavg_time>1561897201.075012</expavg_time>
+ <cpid>69e9ffe8c747b24d6cfe2afa05684612</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1078970</id>
+ <name>pmme</name>
+ <country></country>
+ <create_time>1543181093</create_time>
+ <total_credit>4961091.245075</total_credit>
+ <expavg_credit>0.096017</expavg_credit>
+ <expavg_time>1560147601.436824</expavg_time>
+ <cpid>794d32aa1489dea26cc4eb0600c89781</cpid>
+ <teamid>35006</teamid>
+</user>
 1079006,624.66,d1677835cc8481757e71dd3b1c7c6de2
 1079008,32041.72,077379a89b20ec5978ff109ce8ecf23d
-1079011,0.096711,894e46e396735b6dc9463fab97578d52,35006
-1079012,0.095783,e49f5c58811b2af931d0b206c6a23b3d,35006
-1079024,0.090213,b9be068af734e6c2d902090296cd314a,35006
+<user>
+ <id>1079011</id>
+ <name>Byteball_4eac3668</name>
+ <country></country>
+ <create_time>1543250081</create_time>
+ <total_credit>9897129.118953</total_credit>
+ <expavg_credit>0.096711</expavg_credit>
+ <expavg_time>1579911601.200078</expavg_time>
+ <cpid>894e46e396735b6dc9463fab97578d52</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1079012</id>
+ <name>Byteball_ae213670</name>
+ <country></country>
+ <create_time>1543251745</create_time>
+ <total_credit>4281.476883</total_credit>
+ <expavg_credit>0.095783</expavg_credit>
+ <expavg_time>1551183601.919469</expavg_time>
+ <cpid>e49f5c58811b2af931d0b206c6a23b3d</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1079024</id>
+ <name>Thammuz_</name>
+ <country></country>
+ <create_time>1543266902</create_time>
+ <total_credit>33017569.207006</total_credit>
+ <expavg_credit>0.090213</expavg_credit>
+ <expavg_time>1566001201.878331</expavg_time>
+ <cpid>b9be068af734e6c2d902090296cd314a</cpid>
+ <teamid>35006</teamid>
+</user>
 1079045,3565.98,d963079276c2e926b18edfee7b9711ee,30513
 1079085,648.56,c4beab3ee3f693420743aa199ec78724,30513
 1079106,18321.16,e1bb80dba61a32312958ac6e43780ad3
-1079131,0.096466,6685ca6c1e6b9c1f9caa026193c0bdc0,35006
+<user>
+ <id>1079131</id>
+ <name>ac42739</name>
+ <country></country>
+ <create_time>1543410498</create_time>
+ <total_credit>20086.144689</total_credit>
+ <expavg_credit>0.096466</expavg_credit>
+ <expavg_time>1552479601.428591</expavg_time>
+ <cpid>6685ca6c1e6b9c1f9caa026193c0bdc0</cpid>
+ <teamid>35006</teamid>
+</user>
 1079154,1613.63,7a91bce9fc114175e8c1c61018d2d620
 1079158,3283.55,4eda1f24ebc0ae9d550bd4b5731d3a51,30513
-1079167,0.090471,365db4368b1e8bcc212d810876594e4d,35006
+<user>
+ <id>1079167</id>
+ <name>Joccoffey</name>
+ <country></country>
+ <create_time>1543470873</create_time>
+ <total_credit>12158.451722</total_credit>
+ <expavg_credit>0.090471</expavg_credit>
+ <expavg_time>1557231601.595709</expavg_time>
+ <cpid>365db4368b1e8bcc212d810876594e4d</cpid>
+ <teamid>35006</teamid>
+</user>
 1079212,70333.69,a9fcb9bb6b32166e3c8aa37128b463b7,30513
 1079214,478.55,6d62180c99b98fec91c98eb0160cf843,30513
-1079218,2897.640141,f5939cc535ba018192dee14db14894ae,35006
+<user>
+ <id>1079218</id>
+ <name>defurs1</name>
+ <country>RUSSIAN FEDERATION</country>
+ <create_time>1543542599</create_time>
+ <total_credit>2602353.635388</total_credit>
+ <expavg_credit>2897.640141</expavg_credit>
+ <expavg_time>1593171337.894810</expavg_time>
+ <cpid>f5939cc535ba018192dee14db14894ae</cpid>
+ <teamid>35006</teamid>
+</user>
 1079241,390.82,154a29665d6fbf8ef5d0e4d239c53c2d,30513
 1079272,929.65,9f6d40a3746a0dc1639bb4cd9fbb3b88
 1079282,1490.86,e001f0e99636d7c24eb88ffe6911eee7
-1079286,0.097980,b334b5b1ce3aaea71d791ed0befadd0b,35006
+<user>
+ <id>1079286</id>
+ <name>robazs</name>
+ <country></country>
+ <create_time>1543601633</create_time>
+ <total_credit>4573731.409314</total_credit>
+ <expavg_credit>0.097980</expavg_credit>
+ <expavg_time>1560147601.436824</expavg_time>
+ <cpid>b334b5b1ce3aaea71d791ed0befadd0b</cpid>
+ <teamid>35006</teamid>
+</user>
 1079341,1446.33,8eef3b568a706ac147b6c27a15b504ba
 1079360,9868.52,f5d60cdb8877a7aba4fb98bea9318006
 1079431,1453.86,316cd68440eb514f145eb0e0a43cb9eb
@@ -27173,20 +28913,70 @@ Content-Length: 3698268
 1079704,2387.35,14aac56f8d228e96e0009b76515cb5bd
 1079721,18004.99,1abef2a9a974356c35563f355f28a3ea
 1079741,3148.06,e7901b3e62d02df2f8e7468931a53153
-1079753,0.096133,98f3aba89cffd73bee953ef9b7856c03,35006
+<user>
+ <id>1079753</id>
+ <name>Byteball_2b243742</name>
+ <country></country>
+ <create_time>1544130869</create_time>
+ <total_credit>14745400.645536</total_credit>
+ <expavg_credit>0.096133</expavg_credit>
+ <expavg_time>1563517201.878141</expavg_time>
+ <cpid>98f3aba89cffd73bee953ef9b7856c03</cpid>
+ <teamid>35006</teamid>
+</user>
 1079786,4847.18,b363d9a3b529813c082f672764349240
-1079791,80.194883,83f33d4a5e046be370ffc4dd5378fad9,35006
+<user>
+ <id>1079791</id>
+ <name>bsetmet</name>
+ <country>UNITED STATES</country>
+ <create_time>1544245023</create_time>
+ <total_credit>955094.522907</total_credit>
+ <expavg_credit>80.194883</expavg_credit>
+ <expavg_time>1593130144.931365</expavg_time>
+ <cpid>83f33d4a5e046be370ffc4dd5378fad9</cpid>
+ <teamid>35006</teamid>
+</user>
 1079812,2128.1,5492092602b0d3680323b78ff887fbd1
 1079817,9777.28,4c44173b9f42e74924ad627728c57e0a
 1079828,285.46,044d8dd1968ef7645a8fe1a8aba03c3a
 1079829,4959.18,403961a5571b4782a8d24ba0491becc4
 1079945,3820.83,d39d0f21de085f79162f2aae6c76c404
 1079989,1569.25,179f060903e25bfe8ef8264f980439f2
-1079998,0.095112,f3245f9ae2cfacc6526d4994eb3298bc,35006
+<user>
+ <id>1079998</id>
+ <name>Byteball_919c3794</name>
+ <country></country>
+ <create_time>1544621104</create_time>
+ <total_credit>50912458.655876</total_credit>
+ <expavg_credit>0.095112</expavg_credit>
+ <expavg_time>1565245201.131272</expavg_time>
+ <cpid>f3245f9ae2cfacc6526d4994eb3298bc</cpid>
+ <teamid>35006</teamid>
+</user>
 1080004,112055.18,1618ba206c310a1427f4d1da02e91630
 1080053,10261.77,d0036e764ad3d3dbe02b1227bc4f343f,30513
-1080079,0.095264,38918a36a0e04d407f4021a4dcb73db0,35006
-1080083,0.093758,d0bbbaa1d7b54c13219153d82c50016e,35006
+<user>
+ <id>1080079</id>
+ <name>Byteball_acd33807</name>
+ <country></country>
+ <create_time>1544787423</create_time>
+ <total_credit>9501413.522707</total_credit>
+ <expavg_credit>0.095264</expavg_credit>
+ <expavg_time>1564489201.725173</expavg_time>
+ <cpid>38918a36a0e04d407f4021a4dcb73db0</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1080083</id>
+ <name>Byteball_82b63810</name>
+ <country></country>
+ <create_time>1544795994</create_time>
+ <total_credit>9898473.622723</total_credit>
+ <expavg_credit>0.093758</expavg_credit>
+ <expavg_time>1560147601.436824</expavg_time>
+ <cpid>d0bbbaa1d7b54c13219153d82c50016e</cpid>
+ <teamid>35006</teamid>
+</user>
 1080125,6960.86,2165095db136938a35768a4d708876f8
 1080145,3231.14,eec50e3a762ee81d60a2d2ff299bdb04
 1080153,365.57,ca2be9abeef80e9000dd3e6234668f87
@@ -27205,7 +28995,17 @@ Content-Length: 3698268
 1080664,1816.14,922a34c9f42828e76982ff58db1f708d
 1080693,3006.48,26fa8ef71f33700858028ba83f27652e
 1080742,504.17,1945b6788dad39d7450a2fd0beb8bfe8
-1080757,0.090842,940552f602f67a3cf57a452438f36ee9,35006
+<user>
+ <id>1080757</id>
+ <name>Ponfarriac</name>
+ <country>UNITED STATES</country>
+ <create_time>1546357904</create_time>
+ <total_credit>65705.419577</total_credit>
+ <expavg_credit>0.090842</expavg_credit>
+ <expavg_time>1560709201.235128</expavg_time>
+ <cpid>940552f602f67a3cf57a452438f36ee9</cpid>
+ <teamid>35006</teamid>
+</user>
 1080779,709.2,beca1766f9286d31abd0243894ef437c
 1080785,27877.42,1db0d1fd414c2857284157c7859f2a69
 1080799,1068.2,865ec57387c3759f88ce93066a76431a
@@ -27226,7 +29026,17 @@ Content-Length: 3698268
 1081238,627.52,86b3350d974cd59bf32dd90c2104e5af
 1081271,806.22,a54a5e3a19f27596fb60ea5c7ec1f20b
 1081304,554.77,1c704aa89a92c9af0e9d7dc494d12f3a
-1081428,0.094851,a9904b906bc9292d9dd2893e87c15c57,35006
+<user>
+ <id>1081428</id>
+ <name>tiger1982</name>
+ <country>AUSTRALIA</country>
+ <create_time>1547589914</create_time>
+ <total_credit>23157.882077</total_credit>
+ <expavg_credit>0.094851</expavg_credit>
+ <expavg_time>1571509201.122956</expavg_time>
+ <cpid>a9904b906bc9292d9dd2893e87c15c57</cpid>
+ <teamid>35006</teamid>
+</user>
 1081517,425.46,bc7fd1271dfa06969046a22bc70f7f71
 1081579,497.53,984ef392d2d9c33602a82cf734532fd3
 1081622,1352.15,309639b3a5225936d73d0e4d62d36553
@@ -27238,9 +29048,29 @@ Content-Length: 3698268
 1081874,908.45,a5230cf45212183de0d906097dc465bb,30513
 1081883,730.81,b77b7e9fd9a7a52c0097b3bc80c0c22e
 1081890,1565.45,992407921883d9bfeb5909e4744ffef4
-1081901,0.094111,7596f38b43b6e2e0c939d75c08a2e82a,35006
+<user>
+ <id>1081901</id>
+ <name>Obyte_306b4010</name>
+ <country></country>
+ <create_time>1548491015</create_time>
+ <total_credit>1029584.350958</total_credit>
+ <expavg_credit>0.094111</expavg_credit>
+ <expavg_time>1564165201.435859</expavg_time>
+ <cpid>7596f38b43b6e2e0c939d75c08a2e82a</cpid>
+ <teamid>35006</teamid>
+</user>
 1081918,2785.7,d0b6773224567d4a2bb5bcee6e73ed29
-1081934,0.093129,a625ca481e6e1451366f66a873f6205c,35006
+<user>
+ <id>1081934</id>
+ <name>freebet</name>
+ <country></country>
+ <create_time>1548563198</create_time>
+ <total_credit>600.808096</total_credit>
+ <expavg_credit>0.093129</expavg_credit>
+ <expavg_time>1555287602.007481</expavg_time>
+ <cpid>a625ca481e6e1451366f66a873f6205c</cpid>
+ <teamid>35006</teamid>
+</user>
 1081984,9424.98,f8379242f9d94fc6e9783b15170749f9,30513
 1082009,968.94,3860a52f987724d5768b8880076f0f9c
 1082018,605.38,4a9e3ff7772737a103811f802ed4d66d
@@ -27279,22 +29109,62 @@ Content-Length: 3698268
 1083141,1720.4,9690c20ba92d9f7746c0ca6ded7b9040
 1083150,2003.88,58128a04acbd05ca44a50cc381b2665e
 1083152,312.41,70fc847b3637ec547e188028b6e04116
-1083155,0.097154,fda6177b9786778efae2f74eee0da8eb,35006
+<user>
+ <id>1083155</id>
+ <name>Obyte_a01d4011</name>
+ <country></country>
+ <create_time>1551127544</create_time>
+ <total_credit>941827.300100</total_credit>
+ <expavg_credit>0.097154</expavg_credit>
+ <expavg_time>1564057201.621874</expavg_time>
+ <cpid>fda6177b9786778efae2f74eee0da8eb</cpid>
+ <teamid>35006</teamid>
+</user>
 1083157,63855.14,1a82154e65fc6f898372870a7ef3d711
 1083165,2281.91,d2368206591cb1a09ac9315fe817072f
 1083178,7375.03,dc2deb239a18b69fa7834d426e66b9f1
 1083224,2093.65,200a495224f7a3b9bdadadcb1c46a8d5
 1083228,4192.22,55471d5c9a9600ed91b007b53c2d1600
 1083250,35597.64,01a0f76607a3ea7868f1a789ac55f7f7
-1083268,0.095853,3bb42a65f239f26f9d10d6c1eb8ad815,35006
+<user>
+ <id>1083268</id>
+ <name>Obyte_799d4018</name>
+ <country></country>
+ <create_time>1551392161</create_time>
+ <total_credit>755091.192704</total_credit>
+ <expavg_credit>0.095853</expavg_credit>
+ <expavg_time>1564165201.435859</expavg_time>
+ <cpid>3bb42a65f239f26f9d10d6c1eb8ad815</cpid>
+ <teamid>35006</teamid>
+</user>
 1083288,443.73,76cc378e3329fc1517dc1591d2765d0f
 1083401,12876.45,4d5a3c4843dbfd80c71be8d4b71e68c8
 1083440,826.33,92e6d4e3abe4b1eef7f12c0659393982
 1083470,709.16,8201aa3777801935a6ba5666e127277f
 1083475,837.06,80476bd5d483ec7eb307e15246e0086d
 1083543,10993.08,f0f765f789e78118b1c265cd15d3b347
-1083582,0.089586,1ed049b93fe6b8c61b7d87464581aff4,35006
-1083594,0.088368,aed3885454d057d219e5d6baf4711a3a,35006
+<user>
+ <id>1083582</id>
+ <name>Obyte_eb194024</name>
+ <country></country>
+ <create_time>1551910121</create_time>
+ <total_credit>1525.780275</total_credit>
+ <expavg_credit>0.089586</expavg_credit>
+ <expavg_time>1559283601.954637</expavg_time>
+ <cpid>1ed049b93fe6b8c61b7d87464581aff4</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1083594</id>
+ <name>Obyte_b37f4025</name>
+ <country>POLAND</country>
+ <create_time>1551950412</create_time>
+ <total_credit>91037.655574</total_credit>
+ <expavg_credit>0.088368</expavg_credit>
+ <expavg_time>1570710001.135958</expavg_time>
+ <cpid>aed3885454d057d219e5d6baf4711a3a</cpid>
+ <teamid>35006</teamid>
+</user>
 1083622,4651.75,703dd34f17dc14e673e79405610590ec
 1083692,103564.72,8a5e93556da64dde1c4258e08058a8ba
 1083722,3930.51,00851bac8dc50931e2fc3377380bcfe3
@@ -27356,7 +29226,17 @@ Content-Length: 3698268
 1085488,1094.72,6e4de20847c5c664f4bee4960eb64750
 1085508,16025.13,64982563b92a90ba83dab1d474ba5b44
 1085620,71729.96,693abdeeae54af219d22880f9845587e
-1085660,0.089787,d037ef0e0d2a2ace212a9239a6ad1a5a,35006
+<user>
+ <id>1085660</id>
+ <name>Obyte_eb704186</name>
+ <country></country>
+ <create_time>1556126450</create_time>
+ <total_credit>19831.562733</total_credit>
+ <expavg_credit>0.089787</expavg_credit>
+ <expavg_time>1565569201.245335</expavg_time>
+ <cpid>d037ef0e0d2a2ace212a9239a6ad1a5a</cpid>
+ <teamid>35006</teamid>
+</user>
 1085712,85629.66,5496ff14a1b1b8313f6cd441afa2564c
 1085715,439.57,1e31119cec4d69e12adaa73fa53065a5
 1085762,3060.03,aaf0f881698ada3df0bb620f3d1c4cce
@@ -27521,7 +29401,17 @@ Content-Length: 3698268
 1092382,718.52,ada7fc48f1dce3ac8f8c513aea75a888
 1092427,550.47,5291be4f4ac5997e9c0ff89241d18e05
 1092454,5578.32,9cd587b4fcc6357aa3af6a7fd3f36798
-1092519,0.097828,3e247e5f5e1d4e6b261d9260e15fdf0b,35006
+<user>
+ <id>1092519</id>
+ <name>Obyte_e1214506</name>
+ <country>CANADA</country>
+ <create_time>1571338179</create_time>
+ <total_credit>23695.728179</total_credit>
+ <expavg_credit>0.097828</expavg_credit>
+ <expavg_time>1585506001.142331</expavg_time>
+ <cpid>3e247e5f5e1d4e6b261d9260e15fdf0b</cpid>
+ <teamid>35006</teamid>
+</user>
 1092573,1547.88,8832e1b0b4a33abf091b3a9a4348aa37
 1092619,15294.98,c56d8b30e3fced176bf86c1f85ea5eae
 1092723,1321.16,64b1811fba77f98b348ca2e7d9e5f7b9
@@ -27537,7 +29427,17 @@ Content-Length: 3698268
 1093095,5485.78,05efdc36c66102346d4947638bc82df6
 1093150,4086.94,13ac2c613eb140eb3998b9b39bd5df11
 1093204,2477.75,d1b5715d813cc3951abce6b555f2820d
-1093234,73321.203434,d8b28d935a2cb24febf846f0aeaf5674,35006
+<user>
+ <id>1093234</id>
+ <name>HanalaniSchools</name>
+ <country>UNITED STATES</country>
+ <create_time>1572637265</create_time>
+ <total_credit>9134736.725250</total_credit>
+ <expavg_credit>73321.203434</expavg_credit>
+ <expavg_time>1593173759.877969</expavg_time>
+ <cpid>d8b28d935a2cb24febf846f0aeaf5674</cpid>
+ <teamid>35006</teamid>
+</user>
 1093239,1321.5,3d9461a90118476ecbe022948476476b
 1093246,4555.47,ef6eb4a182b8713b2f9914a9e3f45117
 1093264,46036.87,c8ddcbe21b87f8d128a72093a7d858c4
@@ -27545,12 +29445,32 @@ Content-Length: 3698268
 1093334,17357.61,ed125948116c91006e46da716241801c,30513
 1093372,734.2,d1f1a5374ae5da0304499c36f615fa7f
 1093381,616.62,dc79a7ccd41ca8e1ed1e9fc470ff98a4
-1093384,520.935975,22837abf367a5e40880b9ef0f993837a,35006
+<user>
+ <id>1093384</id>
+ <name>Augustin</name>
+ <country>HONG KONG</country>
+ <create_time>1572914567</create_time>
+ <total_credit>86177.810076</total_credit>
+ <expavg_credit>520.935975</expavg_credit>
+ <expavg_time>1593172272.966374</expavg_time>
+ <cpid>22837abf367a5e40880b9ef0f993837a</cpid>
+ <teamid>35006</teamid>
+</user>
 1093393,1380.71,dc3a8618c23db9f4d476e5a476a16d71
 1093516,741.7,01c6b9594ba36ab580b59008f5581763
 1093533,5751.61,f81712fc4177f4d8fddf845da724f06c,30513
 1093626,4182.15,6b9e823acf3e2b8685a8cb32b20c0020
-1093705,5.132658,4f4e38e96db6b6e3569ab89a03038bea,35006
+<user>
+ <id>1093705</id>
+ <name>The_Nupster</name>
+ <country>UNITED STATES</country>
+ <create_time>1573531034</create_time>
+ <total_credit>316912.184818</total_credit>
+ <expavg_credit>5.132658</expavg_credit>
+ <expavg_time>1593087601.950996</expavg_time>
+ <cpid>4f4e38e96db6b6e3569ab89a03038bea</cpid>
+ <teamid>35006</teamid>
+</user>
 1093753,2689.9,cd9820c661ffeefd515f489e5fbb36fb
 1093770,13676.87,3447fa5530725d38d9a99b9c819480ed
 1093819,3318.98,deec413ce791d8857a2a9b78eed8d644
@@ -27561,7 +29481,17 @@ Content-Length: 3698268
 1093887,2003.44,0141bff95e43aebae6c4a03e33be8672
 1093889,3272.93,639579b6f855d5882a00b8cf279f906f
 1093951,498.48,102723fba8cc368a40d0ac4deedf5111
-1093963,0.098398,720e8024c2156e8388f15aa1a888c7ca,35006
+<user>
+ <id>1093963</id>
+ <name>JesusSaves1</name>
+ <country></country>
+ <create_time>1574003539</create_time>
+ <total_credit>2390.230378</total_credit>
+ <expavg_credit>0.098398</expavg_credit>
+ <expavg_time>1581402001.763968</expavg_time>
+ <cpid>720e8024c2156e8388f15aa1a888c7ca</cpid>
+ <teamid>35006</teamid>
+</user>
 1093983,1110.47,bb110a21e539cf33e980e314ad8273bd
 1093985,63146.93,dd9064c9c01f8b2987010234ae0ebeee
 1094077,9195.06,fbf3bc43971bea09a5f9703b18a5789f
@@ -27611,59 +29541,349 @@ Content-Length: 3698268
 1095342,406.6,ca4c9bd43a7e7f5fda5a9aa771b17628
 1095435,36306.3,71cb694320b7748d988df8a9f3f0b081
 1095443,908.37,4ab960a42f3075c1e1c5a4fe4db239a5
-1095505,11633.483215,ec8fe769562336dcec55f4bf00bd0b52,35006
+<user>
+ <id>1095505</id>
+ <name>Budinga</name>
+ <country>UNITED KINGDOM</country>
+ <create_time>1576743860</create_time>
+ <total_credit>2122299.944520</total_credit>
+ <expavg_credit>11633.483215</expavg_credit>
+ <expavg_time>1593173313.211787</expavg_time>
+ <cpid>ec8fe769562336dcec55f4bf00bd0b52</cpid>
+ <teamid>35006</teamid>
+</user>
 1095550,27087.54,7cfddcf1f9922132802504e88448768f
 1095573,32537.34,7993a60277d2fa10c8940c1b55bb30f1
 1095750,10926.19,dce313c0997be52f915004db60947cf7
 1095756,2712.6,ec33273539851c558f11b496c8887e8f
-1095766,0.095599,df8ba39fe3cce9255d729db830d346f5,35006
-1095772,50381.540962,d6deaba0ab0031419fcb9f3a6818d7dd,35006
-1095785,0.098062,9f44b386ccd52c494ff2cac3a4aa4c7c,35006
+<user>
+ <id>1095766</id>
+ <name>joujou</name>
+ <country></country>
+ <create_time>1577235848</create_time>
+ <total_credit>17001.569999</total_credit>
+ <expavg_credit>0.095599</expavg_credit>
+ <expavg_time>1586586001.407348</expavg_time>
+ <cpid>df8ba39fe3cce9255d729db830d346f5</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1095772</id>
+ <name>Tom24</name>
+ <country></country>
+ <create_time>1577256317</create_time>
+ <total_credit>6844175.408376</total_credit>
+ <expavg_credit>50381.540962</expavg_credit>
+ <expavg_time>1593173276.838546</expavg_time>
+ <cpid>d6deaba0ab0031419fcb9f3a6818d7dd</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1095785</id>
+ <name>Radiant</name>
+ <country></country>
+ <create_time>1577281468</create_time>
+ <total_credit>20311.508406</total_credit>
+ <expavg_credit>0.098062</expavg_credit>
+ <expavg_time>1588141201.452374</expavg_time>
+ <cpid>9f44b386ccd52c494ff2cac3a4aa4c7c</cpid>
+ <teamid>35006</teamid>
+</user>
 1095800,25158.43,91a0d75c439087503aaa98ab6223aa99
 1095812,2689.61,a8ccc3780f5111bdb6b9c319dce588f3
 1095819,5059.67,deee4366d95ac86ddf51cadfa706a59f
 1095838,1246.6,cb787bd66e983365bb17d4cf733a8f9a
 1095847,395.9,68a1d3c204b803102d3bc5d1dc2de12a
-1095860,12.052355,a67bc1f76c71a7cd41b16bbc0116dddd,35006
-1095900,0.099174,48fbc41798bbdc1d7f722c62beb75680,35006
-1095901,0.091351,ea3e2231600fec9210ee3e589e1db2ef,35006
-1095902,0.091109,c4746b39d5a00c05cbc955f554e7bdc6,35006
+<user>
+ <id>1095860</id>
+ <name>027057</name>
+ <country></country>
+ <create_time>1577432408</create_time>
+ <total_credit>148579.997265</total_credit>
+ <expavg_credit>12.052355</expavg_credit>
+ <expavg_time>1593087601.950996</expavg_time>
+ <cpid>a67bc1f76c71a7cd41b16bbc0116dddd</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1095900</id>
+ <name>Sm1th</name>
+ <country></country>
+ <create_time>1577492916</create_time>
+ <total_credit>45319.037287</total_credit>
+ <expavg_credit>0.099174</expavg_credit>
+ <expavg_time>1588292401.847869</expavg_time>
+ <cpid>48fbc41798bbdc1d7f722c62beb75680</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1095901</id>
+ <name>E2teban</name>
+ <country></country>
+ <create_time>1577493098</create_time>
+ <total_credit>3836.951784</total_credit>
+ <expavg_credit>0.091351</expavg_credit>
+ <expavg_time>1585462803.519043</expavg_time>
+ <cpid>ea3e2231600fec9210ee3e589e1db2ef</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1095902</id>
+ <name>julius003</name>
+ <country></country>
+ <create_time>1577493123</create_time>
+ <total_credit>25579.474138</total_credit>
+ <expavg_credit>0.091109</expavg_credit>
+ <expavg_time>1587536401.903975</expavg_time>
+ <cpid>c4746b39d5a00c05cbc955f554e7bdc6</cpid>
+ <teamid>35006</teamid>
+</user>
 1095925,15360.63,e46bdce29727e42fd7d86eaa725f98e1
-1095948,0.096510,c3ded44e062bd53de3fef22be5302fab,35006
-1095949,0.091461,0b3764f7b2ab6d01c3cc9c19bafd4cfb,35006
+<user>
+ <id>1095948</id>
+ <name>sf7kkn99</name>
+ <country></country>
+ <create_time>1577576474</create_time>
+ <total_credit>44689.795645</total_credit>
+ <expavg_credit>0.096510</expavg_credit>
+ <expavg_time>1588465202.007814</expavg_time>
+ <cpid>c3ded44e062bd53de3fef22be5302fab</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1095949</id>
+ <name>kraken76</name>
+ <country></country>
+ <create_time>1577578287</create_time>
+ <total_credit>78342.913784</total_credit>
+ <expavg_credit>0.091461</expavg_credit>
+ <expavg_time>1589221201.522863</expavg_time>
+ <cpid>0b3764f7b2ab6d01c3cc9c19bafd4cfb</cpid>
+ <teamid>35006</teamid>
+</user>
 1095983,864.58,d7e9a1b4bc4178ed4d31ac0435b845ad
-1095999,0.096104,84c7854c8cf60166ad64ed0dc3dc0f13,35006
-1096009,322.084927,9f184b91bc1fca221f3365297396179d,35006
+<user>
+ <id>1095999</id>
+ <name>w2m_00</name>
+ <country></country>
+ <create_time>1577663263</create_time>
+ <total_credit>25156.435462</total_credit>
+ <expavg_credit>0.096104</expavg_credit>
+ <expavg_time>1590646801.448094</expavg_time>
+ <cpid>84c7854c8cf60166ad64ed0dc3dc0f13</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1096009</id>
+ <name>Anfecare16</name>
+ <country>COLOMBIA</country>
+ <create_time>1577680226</create_time>
+ <total_credit>16403.910688</total_credit>
+ <expavg_credit>322.084927</expavg_credit>
+ <expavg_time>1593138567.239699</expavg_time>
+ <cpid>9f184b91bc1fca221f3365297396179d</cpid>
+ <teamid>35006</teamid>
+</user>
 1096050,1486,7fbad7b46e3677b1fdc6fb598e9dde6b
 1096054,1696.37,889332530e392dea3a62a5260c4146f3
-1096100,0.099487,70e573f0fa03b83de2c55dd0e407176b,35006
-1096101,0.088458,03b0d95328d51ad46745c857591e7bc5,35006
-1096103,0.096215,b1440aa18e4e9508f58daa6a18d66f0c,35006
-1096106,0.095404,04163f13463c33002f0fb986b38fca42,35006
-1096107,19.911659,f5f66a70018beee63d26741655d40125,35006
-1096108,0.094530,a7de00972d19c252d5274248723a8cd9,35006
+<user>
+ <id>1096100</id>
+ <name>w2m_15</name>
+ <country></country>
+ <create_time>1577817542</create_time>
+ <total_credit>4807.335385</total_credit>
+ <expavg_credit>0.099487</expavg_credit>
+ <expavg_time>1586132401.461707</expavg_time>
+ <cpid>70e573f0fa03b83de2c55dd0e407176b</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1096101</id>
+ <name>w2m_01</name>
+ <country></country>
+ <create_time>1577818698</create_time>
+ <total_credit>8976.975362</total_credit>
+ <expavg_credit>0.088458</expavg_credit>
+ <expavg_time>1587342001.899640</expavg_time>
+ <cpid>03b0d95328d51ad46745c857591e7bc5</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1096103</id>
+ <name>w2m_02</name>
+ <country></country>
+ <create_time>1577819132</create_time>
+ <total_credit>25630.521391</total_credit>
+ <expavg_credit>0.096215</expavg_credit>
+ <expavg_time>1588184401.902707</expavg_time>
+ <cpid>b1440aa18e4e9508f58daa6a18d66f0c</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1096106</id>
+ <name>w2m_06</name>
+ <country></country>
+ <create_time>1577821830</create_time>
+ <total_credit>8172.184006</total_credit>
+ <expavg_credit>0.095404</expavg_credit>
+ <expavg_time>1587126001.762075</expavg_time>
+ <cpid>04163f13463c33002f0fb986b38fca42</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1096107</id>
+ <name>w2m_12</name>
+ <country></country>
+ <create_time>1577823005</create_time>
+ <total_credit>71914.920440</total_credit>
+ <expavg_credit>19.911659</expavg_credit>
+ <expavg_time>1593152401.528484</expavg_time>
+ <cpid>f5f66a70018beee63d26741655d40125</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1096108</id>
+ <name>w2m_11</name>
+ <country></country>
+ <create_time>1577823349</create_time>
+ <total_credit>4024.963155</total_credit>
+ <expavg_credit>0.094530</expavg_credit>
+ <expavg_time>1586478001.907707</expavg_time>
+ <cpid>a7de00972d19c252d5274248723a8cd9</cpid>
+ <teamid>35006</teamid>
+</user>
 1096124,8709.63,074f4291e45b5ffbf06fd5096bee9d6b
-1096146,0.088993,db52133da57a3f14cb88231fa377eb67,35006
+<user>
+ <id>1096146</id>
+ <name>w2m_04</name>
+ <country></country>
+ <create_time>1577895461</create_time>
+ <total_credit>27808.163589</total_credit>
+ <expavg_credit>0.088993</expavg_credit>
+ <expavg_time>1588292401.847869</expavg_time>
+ <cpid>db52133da57a3f14cb88231fa377eb67</cpid>
+ <teamid>35006</teamid>
+</user>
 1096152,1074.75,839381fda50eece1e09189e33a637b5c
-1096156,0.092487,58cdf4a644c46e0c094e44d31865c1be,35006
+<user>
+ <id>1096156</id>
+ <name>w2m_05</name>
+ <country></country>
+ <create_time>1577903933</create_time>
+ <total_credit>6653.670287</total_credit>
+ <expavg_credit>0.092487</expavg_credit>
+ <expavg_time>1587082801.365586</expavg_time>
+ <cpid>58cdf4a644c46e0c094e44d31865c1be</cpid>
+ <teamid>35006</teamid>
+</user>
 1096160,4684.06,56fe5ba56b599ab94308c48a32ed04f4
-1096161,0.095008,9582e3f7d4e0ce9ffeb9c56637a570a8,35006
+<user>
+ <id>1096161</id>
+ <name>w2m_07</name>
+ <country></country>
+ <create_time>1577913469</create_time>
+ <total_credit>15345.421450</total_credit>
+ <expavg_credit>0.095008</expavg_credit>
+ <expavg_time>1587860401.853975</expavg_time>
+ <cpid>9582e3f7d4e0ce9ffeb9c56637a570a8</cpid>
+ <teamid>35006</teamid>
+</user>
 1096164,11745.28,771406f04db3d65e67675402425ba21c
 1096224,12070.45,be9f334da4d65f5059e1fa56e31c4c50
-1096265,670.495950,baf47217e8f445f34750fe7f2f79754e,35006
-1096277,0.088998,280915e548dcd10d089a3e9355c71063,35006
+<user>
+ <id>1096265</id>
+ <name>gabaldiit</name>
+ <country>BRAZIL</country>
+ <create_time>1578059059</create_time>
+ <total_credit>33620.258179</total_credit>
+ <expavg_credit>670.495950</expavg_credit>
+ <expavg_time>1593162605.478832</expavg_time>
+ <cpid>baf47217e8f445f34750fe7f2f79754e</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1096277</id>
+ <name>mikeyanjelo</name>
+ <country>UNITED KINGDOM</country>
+ <create_time>1578070044</create_time>
+ <total_credit>119.581309</total_credit>
+ <expavg_credit>0.088998</expavg_credit>
+ <expavg_time>1583540401.907505</expavg_time>
+ <cpid>280915e548dcd10d089a3e9355c71063</cpid>
+ <teamid>35006</teamid>
+</user>
 1096287,324.9,cf382eb2ea389492515ceb4c76c5d70a
 1096295,426.5,743206a330dae0fc3afa4310a2e3e072
 1096317,1072.15,1d46604ac73306b0336a4537d951ffd3
-1096341,56807.401211,b0d53dbe05be041a1539606b610d34aa,35006
+<user>
+ <id>1096341</id>
+ <name>coinsinspect</name>
+ <country></country>
+ <create_time>1578171788</create_time>
+ <total_credit>9374038.332227</total_credit>
+ <expavg_credit>56807.401211</expavg_credit>
+ <expavg_time>1593173764.324982</expavg_time>
+ <cpid>b0d53dbe05be041a1539606b610d34aa</cpid>
+ <teamid>35006</teamid>
+</user>
 1096355,4789.06,f8944f05ae50ce246f9243a036f273ca
 1096370,1073.61,5c44aa58e993c5723b5c3c12f7010166
-1096395,0.090325,4bda4ec72734ca376ac70b71cd656de9,35006
-1096444,2346.358361,40c30af534b3f08356d776677af8b28a,35006
-1096457,0.090886,e30e37522ceeed3d9838f919bd338cb4,35006
+<user>
+ <id>1096395</id>
+ <name>sieburg</name>
+ <country>BRAZIL</country>
+ <create_time>1578264357</create_time>
+ <total_credit>7006.148547</total_credit>
+ <expavg_credit>0.090325</expavg_credit>
+ <expavg_time>1590279601.754419</expavg_time>
+ <cpid>4bda4ec72734ca376ac70b71cd656de9</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1096444</id>
+ <name>satoshi0x</name>
+ <country>UNITED STATES</country>
+ <create_time>1578324917</create_time>
+ <total_credit>359357.320258</total_credit>
+ <expavg_credit>2346.358361</expavg_credit>
+ <expavg_time>1593172600.824224</expavg_time>
+ <cpid>40c30af534b3f08356d776677af8b28a</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1096457</id>
+ <name>MadMason</name>
+ <country></country>
+ <create_time>1578338276</create_time>
+ <total_credit>3450.104330</total_credit>
+ <expavg_credit>0.090886</expavg_credit>
+ <expavg_time>1586002801.087574</expavg_time>
+ <cpid>e30e37522ceeed3d9838f919bd338cb4</cpid>
+ <teamid>35006</teamid>
+</user>
 1096487,5390.48,6b5c2773e1227c3d3f5605baa50a7289
-1096576,0.088452,c22782602093f3cc2f48bf4bbbfffb67,35006
-1096631,0.259997,ebc43af325ebb5f25242eb3840688d2f,35006
+<user>
+ <id>1096576</id>
+ <name>bolobala_2020</name>
+ <country>VIET NAM</country>
+ <create_time>1578535752</create_time>
+ <total_credit>2918.974776</total_credit>
+ <expavg_credit>0.088452</expavg_credit>
+ <expavg_time>1587126001.762075</expavg_time>
+ <cpid>c22782602093f3cc2f48bf4bbbfffb67</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1096631</id>
+ <name>smbd</name>
+ <country>FALKLAND ISLANDS (MALVINAS)</country>
+ <create_time>1578631255</create_time>
+ <total_credit>43694.182544</total_credit>
+ <expavg_credit>0.259997</expavg_credit>
+ <expavg_time>1593130801.604618</expavg_time>
+ <cpid>ebc43af325ebb5f25242eb3840688d2f</cpid>
+ <teamid>35006</teamid>
+</user>
 1096658,11841.79,7e3a36fae7e4e6d79cc0e5b7c5283c8f
 1096661,4807.84,61f0a1b49d199de144703746a9b8841a
 1096698,1931.61,4cb04a156dbe6d52d23eba36f4f7d292
@@ -27671,12 +29891,42 @@ Content-Length: 3698268
 1096726,2493.54,e9610aff9907ff5aa3be2516e3d53e0b
 1096736,726.44,19480490520edc02d1d844acc3acbee0
 1096772,1109.4,a966e7eb00cc8d55cb53bf48572473a8
-1096833,0.090765,ddf8470acf9bca8fd6baed6c5c82d326,35006
-1096896,37.678633,b244f8f8e601407b7b314fd09a3229ab,35006
+<user>
+ <id>1096833</id>
+ <name>w2m_09</name>
+ <country></country>
+ <create_time>1578957508</create_time>
+ <total_credit>17955.214433</total_credit>
+ <expavg_credit>0.090765</expavg_credit>
+ <expavg_time>1588357201.670888</expavg_time>
+ <cpid>ddf8470acf9bca8fd6baed6c5c82d326</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1096896</id>
+ <name>987516</name>
+ <country></country>
+ <create_time>1579073966</create_time>
+ <total_credit>63570.269294</total_credit>
+ <expavg_credit>37.678633</expavg_credit>
+ <expavg_time>1593087601.950996</expavg_time>
+ <cpid>b244f8f8e601407b7b314fd09a3229ab</cpid>
+ <teamid>35006</teamid>
+</user>
 1096901,314.05,46c3a8d82a57db0c0bcef3e4350f134c
 1096929,5173.24,bef92c839a54706eafa58fcffa914ed2
 1096937,256.82,82ff25fdc423f872e237bd4b88a0bd0c
-1096947,3.319893,d43357cd2c9e21ba5a03d4cf7a8389d3,35006
+<user>
+ <id>1096947</id>
+ <name>skaaraje</name>
+ <country>RUSSIAN FEDERATION</country>
+ <create_time>1579147793</create_time>
+ <total_credit>65150.217220</total_credit>
+ <expavg_credit>3.319893</expavg_credit>
+ <expavg_time>1593087601.950996</expavg_time>
+ <cpid>d43357cd2c9e21ba5a03d4cf7a8389d3</cpid>
+ <teamid>35006</teamid>
+</user>
 1096949,14456.06,7bc250ef792fcb40de0e56344b01246b
 1096957,734.37,54a2304e5995d71b9a0ed88ebb5bc07c
 1096963,14459.49,727980c89e5c6197e15b883a240030b0
@@ -27692,7 +29942,17 @@ Content-Length: 3698268
 1097237,10718.39,32ba470ba1185c11cfe8ab66c9f18873
 1097263,1036.61,bc11364f106e779eacefde9e61ca9f40
 1097307,5265.15,6d57500d3b883094086673b22d5da95e
-1097312,0.092787,a9753ec6384b1b00b9213081140bdc28,35006
+<user>
+ <id>1097312</id>
+ <name>sciencenut</name>
+ <country>AUSTRALIA</country>
+ <create_time>1579701142</create_time>
+ <total_credit>13121.649313</total_credit>
+ <expavg_credit>0.092787</expavg_credit>
+ <expavg_time>1592763601.802767</expavg_time>
+ <cpid>a9753ec6384b1b00b9213081140bdc28</cpid>
+ <teamid>35006</teamid>
+</user>
 1097315,373,4c2e9b4f3a9abdb39ef2e34ac90ec42d
 1097334,2009.83,6f443898a9f43bde2efb14045fd8ea54
 1097341,2088.67,ef4bb231b7d1aeb31cf5e17e649769f8
@@ -27710,10 +29970,40 @@ Content-Length: 3698268
 1097537,11336.93,7ef82ae21bcf60238abc5e3ba48824ae
 1097548,1644.76,78813da2a3a38b6a279f646b9ad78e3e
 1097603,5054.96,db50ddbd4f3bd65118104a5f0670ab68
-1097626,12140.715982,a7599d89f7bea87602dfb7313e2e1954,35006
+<user>
+ <id>1097626</id>
+ <name>jhoni_one</name>
+ <country>RUSSIAN FEDERATION</country>
+ <create_time>1580136800</create_time>
+ <total_credit>1790408.128174</total_credit>
+ <expavg_credit>12140.715982</expavg_credit>
+ <expavg_time>1593172944.487623</expavg_time>
+ <cpid>a7599d89f7bea87602dfb7313e2e1954</cpid>
+ <teamid>35006</teamid>
+</user>
 1097632,2900.78,60b89c87f75615c455cec3c8c3daa329
-1097659,0.098849,a643dacb236103129ddee839a8a09d1c,35006
-1097661,0.099623,903a9d7c7346f719a12f80cef17f7247,35006
+<user>
+ <id>1097659</id>
+ <name>juanito</name>
+ <country></country>
+ <create_time>1580171191</create_time>
+ <total_credit>1511.656624</total_credit>
+ <expavg_credit>0.098849</expavg_credit>
+ <expavg_time>1588249201.145819</expavg_time>
+ <cpid>a643dacb236103129ddee839a8a09d1c</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1097661</id>
+ <name>rs1pkz</name>
+ <country></country>
+ <create_time>1580172551</create_time>
+ <total_credit>774.817793</total_credit>
+ <expavg_credit>0.099623</expavg_credit>
+ <expavg_time>1588076401.495828</expavg_time>
+ <cpid>903a9d7c7346f719a12f80cef17f7247</cpid>
+ <teamid>35006</teamid>
+</user>
 1097679,936.69,d9b15b1ead144868b38a826c03f52659
 1097692,916.15,3b37375bb2e35d3ee490a0e216e9f581
 1097706,21656.45,a10d82b133ccae3d27cff1ccc533bb28
@@ -27726,29 +30016,119 @@ Content-Length: 3698268
 1097860,813.6,72360b4f635cf3f84e1221121d7d58a6
 1097893,1461.83,2fd87d72cc6932dc75c2571782d74be2
 1097902,1231.26,12dabc2526ad8af65997553a346122e1
-1097938,0.097269,927491a5c58b39449e5b75bdc8991850,35006
+<user>
+ <id>1097938</id>
+ <name>oali</name>
+ <country>GERMANY</country>
+ <create_time>1580586715</create_time>
+ <total_credit>1110.892658</total_credit>
+ <expavg_credit>0.097269</expavg_credit>
+ <expavg_time>1588141201.452374</expavg_time>
+ <cpid>927491a5c58b39449e5b75bdc8991850</cpid>
+ <teamid>35006</teamid>
+</user>
 1097939,862.29,600c3392c0ab485375352f9477e67c5c
 1097970,19041.54,a0adc5e1a5c0f003769d4b5b87e9fcdd
-1098001,412.427665,5b271cdd6d6a0679002fd4ea9c1bcde1,35006
+<user>
+ <id>1098001</id>
+ <name>isaacbland</name>
+ <country>UNITED STATES</country>
+ <create_time>1580662419</create_time>
+ <total_credit>197125.604555</total_credit>
+ <expavg_credit>412.427665</expavg_credit>
+ <expavg_time>1593087601.950996</expavg_time>
+ <cpid>5b271cdd6d6a0679002fd4ea9c1bcde1</cpid>
+ <teamid>35006</teamid>
+</user>
 1098037,676.61,e3d83e0059efb88ea35a8fb08f446297
 1098200,4281.35,21d79926dc0e5d9b52387f502839dc81
 1098212,1242.94,7673e0c0028a6b50b16df60c7b3fb1d8
-1098281,0.092322,1dec989ccb46244a1d8accbc11864681,35006
+<user>
+ <id>1098281</id>
+ <name>denver123</name>
+ <country>ESTONIA</country>
+ <create_time>1581076348</create_time>
+ <total_credit>5722.626745</total_credit>
+ <expavg_credit>0.092322</expavg_credit>
+ <expavg_time>1589480401.294732</expavg_time>
+ <cpid>1dec989ccb46244a1d8accbc11864681</cpid>
+ <teamid>35006</teamid>
+</user>
 1098302,22482.4,8d6c7498b6fd8bf51d0e35de36b98fac
 1098304,6584.84,5a36b149ceb1ed725631f2c9d56db675
-1098328,1759.467772,b20b7e807ed715d8f0029f2b75e3d61c,35006
+<user>
+ <id>1098328</id>
+ <name>ig6138</name>
+ <country>GERMANY</country>
+ <create_time>1581153530</create_time>
+ <total_credit>306892.781665</total_credit>
+ <expavg_credit>1759.467772</expavg_credit>
+ <expavg_time>1593166214.627395</expavg_time>
+ <cpid>b20b7e807ed715d8f0029f2b75e3d61c</cpid>
+ <teamid>35006</teamid>
+</user>
 1098340,2161.76,1db0d0670c940e127645daabbbe098e3
 1098420,1288.79,45c37fb4665061525fc326d776c82331
 1098482,13331.9,1ab9d3c78bde9109902df75847275d00
 1098586,3567.17,61be5cbbea2e83879e89c3ecd4dcc013
 1098604,13591.87,08da5826058e202aa5f3c2a3d01d5958
-1098649,0.099326,b01a2348b936f8b08e2044fefb6ce788,35006
-1098665,3.059247,99dbb6a711eb4a6444f7d5742857b7fb,35006
-1098674,0.088890,af8d016f0c58949e123b9e74328029ab,35006
-1098692,0.338351,cf10fcdb99b4ea16160aa6fd36f96f08,35006
+<user>
+ <id>1098649</id>
+ <name>Neora</name>
+ <country>NETHERLANDS</country>
+ <create_time>1581682413</create_time>
+ <total_credit>2342.604598</total_credit>
+ <expavg_credit>0.099326</expavg_credit>
+ <expavg_time>1589156401.318973</expavg_time>
+ <cpid>b01a2348b936f8b08e2044fefb6ce788</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1098665</id>
+ <name>BaSt4r</name>
+ <country>UNITED ARAB EMIRATES</country>
+ <create_time>1581701759</create_time>
+ <total_credit>99338.095933</total_credit>
+ <expavg_credit>3.059247</expavg_credit>
+ <expavg_time>1593130801.604618</expavg_time>
+ <cpid>99dbb6a711eb4a6444f7d5742857b7fb</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1098674</id>
+ <name>rokon70</name>
+ <country>POLAND</country>
+ <create_time>1581721324</create_time>
+ <total_credit>52.554733</total_credit>
+ <expavg_credit>0.088890</expavg_credit>
+ <expavg_time>1586132401.461707</expavg_time>
+ <cpid>af8d016f0c58949e123b9e74328029ab</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1098692</id>
+ <name>KEYHOLE</name>
+ <country>CANADA</country>
+ <create_time>1581747298</create_time>
+ <total_credit>97659.169246</total_credit>
+ <expavg_credit>0.338351</expavg_credit>
+ <expavg_time>1593130801.604618</expavg_time>
+ <cpid>cf10fcdb99b4ea16160aa6fd36f96f08</cpid>
+ <teamid>35006</teamid>
+</user>
 1098704,381.78,d9bd05c5b1491fe4d0f54202811d8ee9,30513
 1098749,334.12,45824db1df562b18243b61d792b5d039
-1098845,32.122985,bda6af2c89e78fb2a409b0fa0b3385f8,35006
+<user>
+ <id>1098845</id>
+ <name>Socique</name>
+ <country></country>
+ <create_time>1581954919</create_time>
+ <total_credit>441886.403268</total_credit>
+ <expavg_credit>32.122985</expavg_credit>
+ <expavg_time>1593066001.853288</expavg_time>
+ <cpid>bda6af2c89e78fb2a409b0fa0b3385f8</cpid>
+ <teamid>35006</teamid>
+</user>
 1098852,2491.57,ebb409589c091af00101e45e88f50d96
 1098947,346.37,bb97dc8c0df7bb48e9268ee3b0607657
 1098970,14211.1,047de09e28dc75230a97761d08d99622
@@ -27759,12 +30139,42 @@ Content-Length: 3698268
 1099097,793.18,9d15927e4e577ad4aaf52aaaa9962b7d
 1099236,2924.76,0606109802069af5e43731ae940d0add
 1099255,530.57,a223d850cfbdb654ba95feaf97f6cb16
-1099311,7159.044443,4fb3716285d1a5c25b7d93b52e153063,35006
-1099312,6767.624649,52b4f3dccca30ceec716467e5160ef63,35006
+<user>
+ <id>1099311</id>
+ <name>Quosia</name>
+ <country>UNITED STATES</country>
+ <create_time>1582558564</create_time>
+ <total_credit>838042.494137</total_credit>
+ <expavg_credit>7159.044443</expavg_credit>
+ <expavg_time>1593170506.558275</expavg_time>
+ <cpid>4fb3716285d1a5c25b7d93b52e153063</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1099312</id>
+ <name>quosica</name>
+ <country>UNITED STATES</country>
+ <create_time>1582558829</create_time>
+ <total_credit>939850.942632</total_credit>
+ <expavg_credit>6767.624649</expavg_credit>
+ <expavg_time>1593172782.973459</expavg_time>
+ <cpid>52b4f3dccca30ceec716467e5160ef63</cpid>
+ <teamid>35006</teamid>
+</user>
 1099326,1191.75,8bc287d335780729ad4cbd1d38a7f934
 1099336,2822.76,ced9501cfc08c7e1af0340a9257226ed
 1099349,1102.47,d5ea961d1d96b6380ab85e4cd178377b
-1099367,427.612829,98aa5f48d10bc60bfdffdf6ceb462ccc,35006
+<user>
+ <id>1099367</id>
+ <name>Obyte_ff994687</name>
+ <country>UNITED STATES</country>
+ <create_time>1582638232</create_time>
+ <total_credit>313678.291192</total_credit>
+ <expavg_credit>427.612829</expavg_credit>
+ <expavg_time>1593109201.425228</expavg_time>
+ <cpid>98aa5f48d10bc60bfdffdf6ceb462ccc</cpid>
+ <teamid>35006</teamid>
+</user>
 1099381,3223.1,994bc41d00ded99dd31325c10ca51d01
 1099394,2728.72,fe30802fe370bab1271a198354c93a9a
 1099428,2766.94,9c531d957f22f5f0ce9b9bf19ea6ca73
@@ -27801,7 +30211,17 @@ Content-Length: 3698268
 1100306,526.78,fb6b7aa42f82f41824f6300637c153c0,30513
 1100308,9155.38,377363d987712fe1c048276590061fbe
 1100314,1326.4,4e1c8eea23b31e58e65dc6c61158b5c3
-1100320,1.519690,dacf27b316b6ec19e9ceaa21bec032d9,35006
+<user>
+ <id>1100320</id>
+ <name>JeyJey</name>
+ <country></country>
+ <create_time>1583430470</create_time>
+ <total_credit>68134.581627</total_credit>
+ <expavg_credit>1.519690</expavg_credit>
+ <expavg_time>1593087601.950996</expavg_time>
+ <cpid>dacf27b316b6ec19e9ceaa21bec032d9</cpid>
+ <teamid>35006</teamid>
+</user>
 1100333,1553.9,6c530d842bc7a2e5559a188ca6b9dafe
 1100345,3301.61,119562b5099dcebf3390d914ae113ac1
 1100411,1628,6e70472e572f039740c04df95c7f389d
@@ -27853,7 +30273,17 @@ Content-Length: 3698268
 1102194,2605.3,deba36cf480b778d7e0e938d5824a219
 1102245,324.6,16394e631f624b66d28bd93c7d9c7e8a
 1102268,2679.16,882f1e727faefc4b7c5adb35900e746e
-1102309,0.093779,35e998be551a0a6831f083a82f9a631d,35006
+<user>
+ <id>1102309</id>
+ <name>rywag</name>
+ <country>UNITED STATES</country>
+ <create_time>1584247974</create_time>
+ <total_credit>6409.984232</total_credit>
+ <expavg_credit>0.093779</expavg_credit>
+ <expavg_time>1592547601.930120</expavg_time>
+ <cpid>35e998be551a0a6831f083a82f9a631d</cpid>
+ <teamid>35006</teamid>
+</user>
 1102340,2866.44,cbc7de6870de9170f082dd706d98b513
 1102342,580.57,a6f0b61240a72a2530c6630f4f2df409
 1102391,11378.93,e9c1e78cf62766e84b8cfdd5ef59a993
@@ -27868,7 +30298,17 @@ Content-Length: 3698268
 1102782,1291.52,e3de2c61c96b7ca604af0af21e77e897
 1102830,1229.03,88ef48a1f1e125142d62995a8482091e
 1102877,5099.16,8ba0fd8aa0955b1a3a2bd45060c233d8
-1102880,0.097498,e8337ab58d38553da3f394cb4924b9c2,35006
+<user>
+ <id>1102880</id>
+ <name>Sysintern08</name>
+ <country></country>
+ <create_time>1584381621</create_time>
+ <total_credit>4931.826150</total_credit>
+ <expavg_credit>0.097498</expavg_credit>
+ <expavg_time>1592266801.770141</expavg_time>
+ <cpid>e8337ab58d38553da3f394cb4924b9c2</cpid>
+ <teamid>35006</teamid>
+</user>
 1102915,1066.9,d6c159da38f091921d9330a1aee14b47
 1102924,790.67,8bdf74c54dc4fc77682fc0574637fa69,30513
 1103164,692.41,cef77fea28e523daa810cb4e40a7039d
@@ -27884,7 +30324,17 @@ Content-Length: 3698268
 1103646,3122.91,a8a423e4b39fc71da0cb258ec733cb07
 1103671,6641.95,062482e8da5770e7f51329fddefe56b9
 1103700,3878.72,bace15035611d69a2850888f349de2f1
-1103720,2221.099111,6febfe5d9e87c4c4b44e4f5873da7b04,35006
+<user>
+ <id>1103720</id>
+ <name>fredocrypto712</name>
+ <country>FRANCE</country>
+ <create_time>1584632180</create_time>
+ <total_credit>224477.783193</total_credit>
+ <expavg_credit>2221.099111</expavg_credit>
+ <expavg_time>1593168722.673597</expavg_time>
+ <cpid>6febfe5d9e87c4c4b44e4f5873da7b04</cpid>
+ <teamid>35006</teamid>
+</user>
 1103784,2281.8,610150eb7694b0d96787ef7036609c98
 1103807,4650.45,8bda91014d1dcd9a18f9b6d9f02c7719
 1103825,411.02,a87f7c2e7f891bd6ebdaf85c8d5af2bd
@@ -27900,22 +30350,72 @@ Content-Length: 3698268
 1104138,988.12,a72e832e3be5b86ce76a5d9783691fc2
 1104164,363.23,4c74d3c9dd1c99cdb697911d39e1b891
 1104182,920.47,490aac6200361a59c5805597bd630870
-1104189,4215.326474,1d9ff2cfed10e34f81aa6c61ace19f88,35006
-1104265,659.719073,f8c2cf21c724f019c300c1ae8d98eb71,35006
+<user>
+ <id>1104189</id>
+ <name>beansie</name>
+ <country>UNITED STATES</country>
+ <create_time>1584805748</create_time>
+ <total_credit>499398.253033</total_credit>
+ <expavg_credit>4215.326474</expavg_credit>
+ <expavg_time>1593173289.612534</expavg_time>
+ <cpid>1d9ff2cfed10e34f81aa6c61ace19f88</cpid>
+ <teamid>35006</teamid>
+</user>
+<user>
+ <id>1104265</id>
+ <name>ksuny1812</name>
+ <country>RUSSIAN FEDERATION</country>
+ <create_time>1584830037</create_time>
+ <total_credit>40581.063532</total_credit>
+ <expavg_credit>659.719073</expavg_credit>
+ <expavg_time>1593081272.243323</expavg_time>
+ <cpid>f8c2cf21c724f019c300c1ae8d98eb71</cpid>
+ <teamid>35006</teamid>
+</user>
 1104305,901.1,cee8f9841edb2edd59442cd2c01d0d4f
-1104315,49.755541,27240e68a3e56448711218e924c4a520,35006
+<user>
+ <id>1104315</id>
+ <name>Viktor62</name>
+ <country>HUNGARY</country>
+ <create_time>1584860975</create_time>
+ <total_credit>8326.624440</total_credit>
+ <expavg_credit>49.755541</expavg_credit>
+ <expavg_time>1593130801.604618</expavg_time>
+ <cpid>27240e68a3e56448711218e924c4a520</cpid>
+ <teamid>35006</teamid>
+</user>
 1104321,9058.33,106e951aaebfa75e423e5e99e4984dfb
 1104459,1945.73,b682da0b7049e0a0cb759990194ae40b
 1104474,3836.45,a306922541e41ded0a51ea32800cf0a5
 1104492,11329.31,0fb188ec8d95086e199bdc34c9e46040
-1104511,8782.178364,8b8f11c7e2cb750b51a8bb7013f6861a,35006
+<user>
+ <id>1104511</id>
+ <name>gasg</name>
+ <country></country>
+ <create_time>1584910074</create_time>
+ <total_credit>580689.421234</total_credit>
+ <expavg_credit>8782.178364</expavg_credit>
+ <expavg_time>1593171811.617459</expavg_time>
+ <cpid>8b8f11c7e2cb750b51a8bb7013f6861a</cpid>
+ <teamid>35006</teamid>
+</user>
 1104587,382.9,7d62e3e97fac124e08bef5ae1896ebd1
 1104591,4263.75,fd34a0d6b71140347291ac3fb78cd3e5
 1104619,298.12,6bf988d393f4f5b9ee5b242579160881
 1104684,2433.56,cb539460198d03a37ee029d5694575ac
 1104734,325.99,bd5d1739ef4a46cfaf4f7c7a915d7c3d
 1104735,2778.88,bbba9a0f3316e48cfd5e18a11fc7f505
-1104773,21.461187,19dcf9833db07e0a1983ce5776d95ee7,35006
+<user>
+ <id>1104773</id>
+ <name>lvworld</name>
+ <country>CHINA</country>
+ <create_time>1584975309</create_time>
+ <total_credit>485983.374155</total_credit>
+ <expavg_credit>21.461187</expavg_credit>
+ <expavg_time>1593130801.604618</expavg_time>
+ <cpid>19dcf9833db07e0a1983ce5776d95ee7</cpid>
+ <teamid>35006</teamid>
+</user>
 1104777,8431.9,09bdc7538adac69b30fb3b7059b64717
 1104830,1998.25,1d901688391e530038249d2b8d3e5990
 1104889,268.23,4399feaecefc420c1f5c54b03b0ca8ca
@@ -28060,7 +30560,17 @@ Content-Length: 3698268
 1108224,309.03,27065659002091a7978709d836bf0923
 1108230,3832.61,42fc17ebb7c116561aa16ed6e6dfb634
 1108245,568.1,de555fac10d130b19a57d446e36c50e7
-1108270,47915.392038,9716dfe106f7c43d0fdbb7d73105a1a6,35006
+<user>
+ <id>1108270</id>
+ <name>Atiss</name>
+ <country>UKRAINE</country>
+ <create_time>1585876239</create_time>
+ <total_credit>2891427.377379</total_credit>
+ <expavg_credit>47915.392038</expavg_credit>
+ <expavg_time>1593173313.700459</expavg_time>
+ <cpid>9716dfe106f7c43d0fdbb7d73105a1a6</cpid>
+ <teamid>35006</teamid>
+</user>
 1108318,3667.29,893f7a6de81433e35c0ad1fb4f3459bb
 1108348,1255.65,ac3d51da231b0f59b59e8d355dc3beef
 1108360,1069.51,06ca24ec151ae9725591dd3c4801d9c5
@@ -28089,7 +30599,17 @@ Content-Length: 3698268
 1108971,4834.22,c035eeeb3052d22baa6755131581b5e2
 1109037,27854.8,089d38796c76fb0c9bc66f4c9d662cac
 1109066,353.8,37c491357317cb9baf0eae67ba70fd0d
-1109068,2699.678645,0015b66df5c7a7b53b7d48256fa2947e,35006
+<user>
+ <id>1109068</id>
+ <name>chicle</name>
+ <country>UNITED STATES</country>
+ <create_time>1586031601</create_time>
+ <total_credit>524422.132391</total_credit>
+ <expavg_credit>2699.678645</expavg_credit>
+ <expavg_time>1593170559.583199</expavg_time>
+ <cpid>0015b66df5c7a7b53b7d48256fa2947e</cpid>
+ <teamid>35006</teamid>
+</user>
 1109144,481.89,29ea5fc6e7814402fcce9e81c1dc3bd5
 1109158,1410.64,4aad8876be30d4e1ce310ac922d03a8e
 1109180,1414.29,740cbbb09f2ece7ed475eedb8a0970ad
@@ -28178,7 +30698,17 @@ Content-Length: 3698268
 1111028,4290.2,fe1ae501c41328b68db495ac636bddc1
 1111037,277.89,0ca9e97f18b87e18cbcd9dc98bb37864
 1111130,388.11,49776bf65757cc8e8277b947a7e79221
-1111142,3317.910518,d436d3c0c2a9f065576fcce50cada213,35006
+<user>
+ <id>1111142</id>
+ <name>alexbfr</name>
+ <country>FRANCE</country>
+ <create_time>1586684786</create_time>
+ <total_credit>252108.848513</total_credit>
+ <expavg_credit>3317.910518</expavg_credit>
+ <expavg_time>1593173344.261057</expavg_time>
+ <cpid>d436d3c0c2a9f065576fcce50cada213</cpid>
+ <teamid>35006</teamid>
+</user>
 1111159,320.83,ec2606250d7a90eb017911dce7e45c33
 1111282,3968.52,83b29504c752a2ed6b1e31d44590c7ae
 1111283,5935.58,2529a6d8dc9703054e33d72064c7fe22,30513
@@ -28194,7 +30724,17 @@ Content-Length: 3698268
 1111487,573.98,740a83636f585cef20bcccb087a510ac
 1111496,620.14,4aedef78c133d8e6300f7fed4d070448
 1111516,725.45,eb226e903a9bf8523e9ff621bb972dff
-1111566,2823.557251,549070e88798daf8e6b07f55e8134b9b,35006
+<user>
+ <id>1111566</id>
+ <name>carlit0</name>
+ <country></country>
+ <create_time>1586891590</create_time>
+ <total_credit>254549.638194</total_credit>
+ <expavg_credit>2823.557251</expavg_credit>
+ <expavg_time>1593066001.853288</expavg_time>
+ <cpid>549070e88798daf8e6b07f55e8134b9b</cpid>
+ <teamid>35006</teamid>
+</user>
 1111577,272.42,c423899435b1f01abcde8f8b554189eb
 1111582,3072.88,1fce1b20a87f7da0bff289bba25e2918
 1111585,20874.6,cdd050c18bb40751e43ec706e317e35c
@@ -28250,7 +30790,17 @@ Content-Length: 3698268
 1112704,3037.36,29977b75cbc843e03ffa3e21333d0110
 1112727,868.94,4ac43536f0db50a0d00fecfc4b5a2f57
 1112732,5892.33,c14372e0dab4328c94e3fc0d98c153e2
-1112749,7934.811397,780f3c1fbb4312f777115ee1aea066d5,35006
+<user>
+ <id>1112749</id>
+ <name>RicFer</name>
+ <country>PORTUGAL</country>
+ <create_time>1587502974</create_time>
+ <total_credit>1700226.403748</total_credit>
+ <expavg_credit>7934.811397</expavg_credit>
+ <expavg_time>1593172544.069749</expavg_time>
+ <cpid>780f3c1fbb4312f777115ee1aea066d5</cpid>
+ <teamid>35006</teamid>
+</user>
 1112773,266.02,bb74a3570b312d80d8dda50eda59fd62
 1112780,9014.9,b188e50062506f4d47bce75c9b16d57e,30513
 1112875,785.18,14b0aeea433cd4d188c3d578e20606eb
@@ -28261,9 +30811,29 @@ Content-Length: 3698268
 1112930,1126.74,f644e79c2641155b98d3b50ecd3e2331
 1112967,668.06,cd2b8ab6e4804a933cfe3a27c11cf66f,30513
 1112988,597.51,5a24c98a90da973221b9801e972dbae7
-1113005,1775.293472,29d9dde48cf258a0126ad1ed32f38613,35006
+<user>
+ <id>1113005</id>
+ <name>kimlo</name>
+ <country>OMAN</country>
+ <create_time>1587661200</create_time>
+ <total_credit>569749.238409</total_credit>
+ <expavg_credit>1775.293472</expavg_credit>
+ <expavg_time>1593164925.549823</expavg_time>
+ <cpid>29d9dde48cf258a0126ad1ed32f38613</cpid>
+ <teamid>35006</teamid>
+</user>
 1113027,1476.86,3cca3ebc68ff311c50e9d57630eb8be2
-1113057,2945.353802,6a146b187cab8f0e8f7b7f75cd46960a,35006
+<user>
+ <id>1113057</id>
+ <name>h4rt3r</name>
+ <country>POLAND</country>
+ <create_time>1587696711</create_time>
+ <total_credit>214294.694205</total_credit>
+ <expavg_credit>2945.353802</expavg_credit>
+ <expavg_time>1593168906.593090</expavg_time>
+ <cpid>6a146b187cab8f0e8f7b7f75cd46960a</cpid>
+ <teamid>35006</teamid>
+</user>
 1113078,2209.68,1a209f3d0d19b098cf45bc7a67975282
 1113081,857.11,895bc82016c38a376bae1fa431908b6c
 1113105,4379.4,1131698795b31b66402a8d6345b4ea62
@@ -28276,7 +30846,17 @@ Content-Length: 3698268
 1113246,1819.31,35d90cedb1e2a26e778617238d3d68b8
 1113268,1901.01,c242a2a374afb2365ef3988665db24c1
 1113276,1159.76,a73c89c66677860aa25a35fccf502f1c
-1113281,97.180896,b2182137947ebbaa7479ae1c574c7995,35006
+<user>
+ <id>1113281</id>
+ <name>amter</name>
+ <country>CHINA</country>
+ <create_time>1587871481</create_time>
+ <total_credit>20639.253149</total_credit>
+ <expavg_credit>97.180896</expavg_credit>
+ <expavg_time>1593087601.950996</expavg_time>
+ <cpid>b2182137947ebbaa7479ae1c574c7995</cpid>
+ <teamid>35006</teamid>
+</user>
 1113283,1084.38,748f7b498cd411ca14027a275fd4bc6d
 1113286,476.05,1ac9cf28189f8e24d92526b85b51e05d
 1113292,11452.51,da8fa44b922ebccc1134b86ae12d841b
@@ -28306,7 +30886,17 @@ Content-Length: 3698268
 1113700,2389.06,884c4ff12603be602a99ec44c8e0aff3
 1113727,2553.75,8bf08a3b5400c36d6cf4036a1c1920d5
 1113808,374.17,b77e0372e894a6bc6cd09c4b85b65468
-1113859,0.762538,ad4870caed05917d3efa20c792aa18b3,35006
+<user>
+ <id>1113859</id>
+ <name>jonylite</name>
+ <country>POLAND</country>
+ <create_time>1588353792</create_time>
+ <total_credit>340.391178</total_credit>
+ <expavg_credit>0.762538</expavg_credit>
+ <expavg_time>1593130801.604618</expavg_time>
+ <cpid>ad4870caed05917d3efa20c792aa18b3</cpid>
+ <teamid>35006</teamid>
+</user>
 1113863,340.07,7fa0ad6aca1348ad1bc4fd1533224afb
 1113880,1718.08,28ed1136e30946224198e4d52d1832c3
 1113883,480.65,9bda5ba7f9288bdf9e63b4fc13adfca3
@@ -28362,7 +30952,17 @@ Content-Length: 3698268
 1115067,7728.95,49f0ca03a37ab374a004f78aae83763b
 1115071,6043.45,29ae778ec8f304b7354e54dd8d9c8a35
 1115074,1435.13,7166243ac74de972f11e13354dd3063f
-1115081,21970.616713,fda8f0572da94b1375c06a0242ae862b,35006
+<user>
+ <id>1115081</id>
+ <name>ask2tam</name>
+ <country>PERU</country>
+ <create_time>1589476399</create_time>
+ <total_credit>711710.257251</total_credit>
+ <expavg_credit>21970.616713</expavg_credit>
+ <expavg_time>1593173459.928117</expavg_time>
+ <cpid>fda8f0572da94b1375c06a0242ae862b</cpid>
+ <teamid>35006</teamid>
+</user>
 1115097,741.08,b9d22386993a72deae270c7b4c248a89
 1115108,264.02,845bcfb36f6782b77567d4e68e62c11a
 1115127,6584.25,dfcad9964872e9723b7eb77e759d0dca
@@ -28557,7 +31157,17 @@ Content-Length: 3698268
 1120089,740.39,0874f5bd9e8200e02f5c25b1152e8dde
 1120159,8673.67,512c0a5c7b0cdb15cc8c218a644af539
 1120171,326.88,0e48ae2986a5e7b93315dab1c2fe5c39
-1120217,62.418629,bfe95bed46bcd02f205a2e3ba9bca559,35006
+<user>
+ <id>1120217</id>
+ <name>CCScouts</name>
+ <country>UNITED KINGDOM</country>
+ <create_time>1591632264</create_time>
+ <total_credit>1634.040794</total_credit>
+ <expavg_credit>62.418629</expavg_credit>
+ <expavg_time>1593066001.853288</expavg_time>
+ <cpid>bfe95bed46bcd02f205a2e3ba9bca559</cpid>
+ <teamid>35006</teamid>
+</user>
 1120221,1192.97,2826d3a4546939df6e09f2bfb67a7c1f
 1120227,318.3,571618c23cf6f6dd23b4e2e9fd64a909
 1120244,725.03,bf381595774a6d41f779efc9a3c6479d
@@ -28585,7 +31195,17 @@ Content-Length: 3698268
 1120753,482.19,4ba97c217b7f64f3952e05a223c27385
 1120761,337.99,ff8fd42cd0ef978eb4725bcbf217886d
 1120811,1447.29,951d5d2043f08988a6b30488b8b9f5bd
-1120825,190.306990,04a1cacb11c93a2d1f376ee7874f0ecf,35006
+<user>
+ <id>1120825</id>
+ <name>bolobala_2030</name>
+ <country>VIET NAM</country>
+ <create_time>1592291394</create_time>
+ <total_credit>258.186248</total_credit>
+ <expavg_credit>190.306990</expavg_credit>
+ <expavg_time>1593109201.425228</expavg_time>
+ <cpid>04a1cacb11c93a2d1f376ee7874f0ecf</cpid>
+ <teamid>35006</teamid>
+</user>
 1120834,812.9,977b025601f98d8467aaed00b38509be
 1120839,2176.66,fe0b923dfd707ad44877a974ca580c2c
 1120840,1110.28,709257441060075db3af233ae867a8e0
@@ -28636,3 +31256,6 @@ Content-Length: 3698268
 1121773,486.53,30d0ab67781416d84859d194d417a4c7
 1121801,261.77,9b55c2bbb02863eedaee65a4e59231d0
 1121802,838.83,1309ce6d3984a7eb1b6c3369e405352f
+<boinchash>e594c591fbb427e31d02e3f5a6a0772b94557fa75d70eb7d1288805667395298</boinchash>
+<EOF></HTML>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
