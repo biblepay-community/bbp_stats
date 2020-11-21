@@ -1,5 +1,4 @@
 blockversion,difficulty,height,nonce,subsidy,time
-blockversion,chainlock,difficulty,height,nonce,subsidy,time
 1529,0.1052112605508264,234126,0,6,1605921641
 1529,0.1013280021522634,234125,0,6,1605920767
 1529,0.1146193896445356,234124,0,6,1605920665
